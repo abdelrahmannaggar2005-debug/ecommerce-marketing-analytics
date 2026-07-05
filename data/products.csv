@@ -1,0 +1,61 @@
+product_id,product_name,category,base_price,cost
+1,Home & Kitchen Item 1,Home & Kitchen,170.42,95.28
+2,Home & Kitchen Item 2,Home & Kitchen,22.49,15.64
+3,Beauty Item 3,Beauty,183.2,98.76
+4,Home & Kitchen Item 4,Home & Kitchen,63.53,38.34
+5,Home & Kitchen Item 5,Home & Kitchen,154.04,81.32
+6,Beauty Item 6,Beauty,203.82,142.19
+7,Toys Item 7,Toys,80.04,44.92
+8,Fashion Item 8,Fashion,114.61,69.74
+9,Toys Item 9,Toys,106.18,51.14
+10,Sports Item 10,Sports,41.41,26.22
+11,Sports Item 11,Sports,133.15,68.88
+12,Home & Kitchen Item 12,Home & Kitchen,165.52,93.05
+13,Sports Item 13,Sports,202.38,135.75
+14,Fashion Item 14,Fashion,188.37,130.47
+15,Home & Kitchen Item 15,Home & Kitchen,116.12,64.58
+16,Sports Item 16,Sports,160.43,105.68
+17,Electronics Item 17,Electronics,177.77,82.37
+18,Electronics Item 18,Electronics,112.62,74.54
+19,Electronics Item 19,Electronics,32.47,19.72
+20,Electronics Item 20,Electronics,100.84,57.7
+21,Toys Item 21,Toys,186.61,125.49
+22,Electronics Item 22,Electronics,134.49,88.94
+23,Home & Kitchen Item 23,Home & Kitchen,161.59,84.71
+24,Beauty Item 24,Beauty,47.28,30.63
+25,Toys Item 25,Toys,212.44,100.88
+26,Beauty Item 26,Beauty,93.67,61.42
+27,Home & Kitchen Item 27,Home & Kitchen,146.57,90.71
+28,Home & Kitchen Item 28,Home & Kitchen,12,5.66
+29,Fashion Item 29,Fashion,34.99,21.72
+30,Toys Item 30,Toys,173.79,103.43
+31,Beauty Item 31,Beauty,213.21,127.64
+32,Electronics Item 32,Electronics,75.85,39.65
+33,Home & Kitchen Item 33,Home & Kitchen,15.88,8.2
+34,Electronics Item 34,Electronics,84.5,54.13
+35,Beauty Item 35,Beauty,11.7,6.02
+36,Toys Item 36,Toys,48.78,27.39
+37,Sports Item 37,Sports,167.52,104.48
+38,Sports Item 38,Sports,206.66,97.11
+39,Home & Kitchen Item 39,Home & Kitchen,26.54,15.89
+40,Fashion Item 40,Fashion,126.27,75.43
+41,Electronics Item 41,Electronics,61.82,38.39
+42,Home & Kitchen Item 42,Home & Kitchen,37.48,20.33
+43,Fashion Item 43,Fashion,54.42,30.6
+44,Electronics Item 44,Electronics,130.49,69.48
+45,Beauty Item 45,Beauty,21.81,14.22
+46,Sports Item 46,Sports,100.05,48.29
+47,Fashion Item 47,Fashion,36.67,25.33
+48,Electronics Item 48,Electronics,65.81,40.06
+49,Home & Kitchen Item 49,Home & Kitchen,48.44,32.54
+50,Electronics Item 50,Electronics,195.19,108.63
+51,Home & Kitchen Item 51,Home & Kitchen,158.1,84.28
+52,Sports Item 52,Sports,192.11,129.71
+53,Sports Item 53,Sports,89.29,42.39
+54,Electronics Item 54,Electronics,74.44,35.68
+55,Electronics Item 55,Electronics,88.68,46.54
+56,Home & Kitchen Item 56,Home & Kitchen,11.93,8.23
+57,Home & Kitchen Item 57,Home & Kitchen,161.64,98.32
+58,Fashion Item 58,Fashion,82.15,48.35
+59,Fashion Item 59,Fashion,74.42,46.61
+60,Fashion Item 60,Fashion,134.81,74.73

@@ -1,0 +1,3001 @@
+customer_id,signup_date,acquisition_channel,age_group,city
+1,11/8/2024,Organic,35-44,Tanta
+2,6/2/2025,Referral,55+,Giza
+3,7/24/2024,Social,18-24,Cairo
+4,1/9/2025,Social,18-24,Cairo
+5,3/26/2025,Paid Search,35-44,Alexandria
+6,9/17/2025,Paid Search,25-34,Aswan
+7,8/17/2025,Paid Search,25-34,Mansoura
+8,6/27/2024,Referral,18-24,Cairo
+9,7/28/2024,Social,18-24,Cairo
+10,5/14/2025,Social,45-54,Mansoura
+11,4/8/2025,Paid Search,18-24,Tanta
+12,5/3/2024,Referral,25-34,Alexandria
+13,4/22/2024,Email,35-44,Alexandria
+14,1/12/2024,Paid Search,25-34,Cairo
+15,5/5/2024,Paid Search,18-24,Tanta
+16,7/18/2025,Paid Search,45-54,Mansoura
+17,11/26/2024,Paid Search,18-24,Cairo
+18,10/9/2024,Organic,45-54,Mansoura
+19,5/19/2024,Organic,45-54,Cairo
+20,2/4/2025,Paid Search,25-34,Cairo
+21,4/6/2024,Social,35-44,Cairo
+22,5/31/2025,Paid Search,35-44,Cairo
+23,7/22/2025,Paid Search,25-34,Giza
+24,3/9/2024,Organic,45-54,Giza
+25,4/27/2024,Organic,45-54,Alexandria
+26,2/28/2024,Email,25-34,Giza
+27,2/2/2024,Paid Search,35-44,Cairo
+28,11/13/2024,Organic,55+,Cairo
+29,2/19/2024,Social,55+,Alexandria
+30,5/3/2025,Paid Search,35-44,Giza
+31,1/19/2024,Social,25-34,Cairo
+32,7/15/2024,Paid Search,25-34,Tanta
+33,3/25/2025,Paid Search,55+,Mansoura
+34,7/12/2025,Referral,18-24,Tanta
+35,3/27/2025,Referral,35-44,Giza
+36,10/15/2024,Email,25-34,Cairo
+37,5/20/2024,Paid Search,25-34,Mansoura
+38,3/24/2024,Paid Search,25-34,Cairo
+39,1/25/2025,Social,55+,Giza
+40,8/13/2025,Organic,18-24,Cairo
+41,8/2/2024,Paid Search,35-44,Tanta
+42,6/9/2025,Organic,18-24,Cairo
+43,8/2/2024,Paid Search,25-34,Aswan
+44,2/6/2025,Referral,25-34,Tanta
+45,5/7/2024,Paid Search,35-44,Giza
+46,4/21/2025,Social,25-34,Mansoura
+47,2/7/2025,Paid Search,25-34,Alexandria
+48,1/29/2024,Organic,18-24,Tanta
+49,12/3/2024,Social,25-34,Giza
+50,12/26/2024,Paid Search,55+,Mansoura
+51,7/22/2025,Referral,55+,Giza
+52,1/26/2025,Email,25-34,Aswan
+53,8/5/2024,Referral,35-44,Giza
+54,7/27/2025,Referral,55+,Giza
+55,10/30/2025,Social,18-24,Mansoura
+56,7/20/2024,Referral,45-54,Tanta
+57,1/17/2024,Paid Search,55+,Alexandria
+58,11/17/2024,Paid Search,18-24,Cairo
+59,6/1/2025,Paid Search,25-34,Giza
+60,7/23/2025,Organic,55+,Aswan
+61,11/20/2024,Organic,35-44,Mansoura
+62,2/15/2025,Paid Search,18-24,Tanta
+63,11/13/2024,Email,25-34,Cairo
+64,3/22/2024,Organic,25-34,Giza
+65,4/18/2025,Paid Search,35-44,Alexandria
+66,4/12/2025,Social,35-44,Tanta
+67,2/28/2025,Paid Search,55+,Cairo
+68,7/22/2024,Email,25-34,Tanta
+69,8/5/2025,Paid Search,35-44,Alexandria
+70,1/21/2025,Referral,35-44,Cairo
+71,4/7/2024,Email,25-34,Giza
+72,12/10/2024,Paid Search,25-34,Cairo
+73,7/26/2024,Paid Search,55+,Alexandria
+74,5/28/2025,Email,45-54,Cairo
+75,9/27/2025,Social,35-44,Cairo
+76,8/8/2025,Social,35-44,Tanta
+77,6/14/2024,Email,25-34,Cairo
+78,1/22/2024,Paid Search,35-44,Cairo
+79,6/2/2024,Organic,35-44,Giza
+80,3/14/2025,Paid Search,35-44,Alexandria
+81,10/21/2024,Referral,55+,Mansoura
+82,8/6/2024,Social,35-44,Giza
+83,10/30/2025,Organic,25-34,Mansoura
+84,5/9/2025,Paid Search,45-54,Alexandria
+85,8/17/2024,Paid Search,25-34,Cairo
+86,1/20/2024,Organic,25-34,Cairo
+87,7/6/2025,Social,25-34,Giza
+88,5/27/2024,Social,25-34,Giza
+89,4/17/2024,Referral,45-54,Mansoura
+90,2/6/2025,Organic,35-44,Alexandria
+91,8/18/2025,Paid Search,45-54,Giza
+92,4/27/2025,Social,35-44,Cairo
+93,1/1/2025,Email,25-34,Cairo
+94,2/17/2025,Social,45-54,Alexandria
+95,11/4/2024,Email,25-34,Giza
+96,5/13/2024,Organic,25-34,Alexandria
+97,10/9/2024,Organic,35-44,Cairo
+98,3/13/2024,Organic,25-34,Alexandria
+99,4/25/2025,Paid Search,18-24,Tanta
+100,12/17/2024,Paid Search,35-44,Cairo
+101,7/13/2025,Paid Search,35-44,Giza
+102,11/21/2024,Social,25-34,Aswan
+103,3/18/2025,Paid Search,55+,Giza
+104,4/9/2024,Organic,35-44,Alexandria
+105,2/28/2024,Referral,45-54,Cairo
+106,5/22/2025,Paid Search,18-24,Alexandria
+107,9/14/2024,Organic,35-44,Cairo
+108,2/16/2025,Email,45-54,Aswan
+109,3/27/2025,Paid Search,35-44,Mansoura
+110,3/5/2024,Paid Search,35-44,Mansoura
+111,8/17/2025,Paid Search,25-34,Mansoura
+112,6/2/2024,Paid Search,18-24,Alexandria
+113,9/22/2024,Referral,25-34,Giza
+114,3/19/2024,Email,25-34,Tanta
+115,11/10/2024,Social,45-54,Aswan
+116,10/23/2025,Referral,25-34,Giza
+117,7/13/2025,Email,55+,Aswan
+118,9/4/2024,Paid Search,55+,Alexandria
+119,9/1/2025,Referral,25-34,Alexandria
+120,2/17/2025,Organic,25-34,Giza
+121,1/25/2024,Email,45-54,Cairo
+122,10/10/2024,Referral,55+,Cairo
+123,3/24/2025,Paid Search,25-34,Cairo
+124,10/27/2024,Paid Search,25-34,Alexandria
+125,3/8/2024,Paid Search,35-44,Giza
+126,1/7/2024,Organic,35-44,Giza
+127,5/16/2024,Email,25-34,Aswan
+128,6/12/2024,Referral,35-44,Giza
+129,3/23/2024,Paid Search,18-24,Giza
+130,10/11/2025,Organic,18-24,Cairo
+131,2/23/2025,Organic,25-34,Cairo
+132,3/13/2024,Paid Search,25-34,Mansoura
+133,8/24/2024,Paid Search,25-34,Alexandria
+134,2/15/2024,Organic,35-44,Mansoura
+135,9/9/2025,Referral,25-34,Cairo
+136,9/18/2024,Organic,25-34,Alexandria
+137,6/24/2024,Organic,25-34,Cairo
+138,6/14/2024,Social,55+,Cairo
+139,10/18/2025,Organic,25-34,Cairo
+140,1/4/2025,Referral,25-34,Cairo
+141,2/23/2024,Referral,35-44,Giza
+142,2/22/2025,Paid Search,55+,Cairo
+143,5/21/2025,Organic,25-34,Aswan
+144,12/6/2024,Paid Search,35-44,Giza
+145,5/6/2024,Paid Search,35-44,Cairo
+146,2/12/2025,Paid Search,35-44,Cairo
+147,1/1/2025,Social,18-24,Alexandria
+148,9/27/2024,Organic,35-44,Cairo
+149,10/5/2025,Paid Search,18-24,Tanta
+150,8/27/2025,Paid Search,35-44,Aswan
+151,1/13/2025,Referral,35-44,Cairo
+152,3/13/2024,Paid Search,25-34,Giza
+153,9/4/2024,Paid Search,45-54,Cairo
+154,2/12/2024,Organic,18-24,Alexandria
+155,1/11/2025,Referral,45-54,Giza
+156,2/10/2024,Paid Search,25-34,Cairo
+157,6/18/2024,Social,25-34,Cairo
+158,7/30/2024,Email,18-24,Alexandria
+159,5/7/2025,Paid Search,55+,Giza
+160,2/8/2024,Social,18-24,Cairo
+161,1/3/2025,Organic,25-34,Mansoura
+162,5/30/2024,Social,25-34,Alexandria
+163,4/20/2024,Social,35-44,Tanta
+164,4/24/2025,Organic,35-44,Cairo
+165,3/11/2025,Paid Search,18-24,Mansoura
+166,2/16/2024,Email,25-34,Alexandria
+167,7/28/2025,Organic,25-34,Cairo
+168,12/31/2024,Paid Search,25-34,Mansoura
+169,3/9/2024,Paid Search,25-34,Giza
+170,10/25/2024,Social,35-44,Aswan
+171,10/22/2024,Social,25-34,Cairo
+172,7/21/2024,Paid Search,25-34,Alexandria
+173,3/1/2024,Organic,25-34,Giza
+174,11/9/2024,Paid Search,55+,Aswan
+175,6/9/2024,Social,55+,Giza
+176,11/26/2024,Paid Search,45-54,Aswan
+177,6/11/2025,Social,25-34,Aswan
+178,12/3/2024,Organic,18-24,Cairo
+179,8/28/2025,Referral,25-34,Tanta
+180,10/30/2024,Paid Search,25-34,Aswan
+181,5/17/2025,Organic,35-44,Cairo
+182,10/11/2025,Paid Search,45-54,Giza
+183,12/3/2024,Referral,45-54,Alexandria
+184,7/3/2025,Referral,45-54,Cairo
+185,9/30/2025,Paid Search,25-34,Cairo
+186,10/1/2024,Social,35-44,Cairo
+187,6/12/2024,Email,25-34,Cairo
+188,3/18/2025,Social,18-24,Giza
+189,11/14/2024,Organic,35-44,Cairo
+190,8/11/2025,Paid Search,18-24,Tanta
+191,5/18/2025,Paid Search,25-34,Mansoura
+192,1/21/2025,Referral,25-34,Cairo
+193,8/25/2025,Referral,35-44,Alexandria
+194,5/8/2025,Social,45-54,Alexandria
+195,5/4/2025,Organic,25-34,Aswan
+196,3/13/2024,Organic,45-54,Cairo
+197,5/23/2025,Social,25-34,Cairo
+198,1/24/2025,Referral,25-34,Aswan
+199,9/10/2025,Referral,35-44,Aswan
+200,10/21/2024,Email,35-44,Mansoura
+201,1/3/2025,Social,55+,Mansoura
+202,7/2/2025,Paid Search,25-34,Cairo
+203,10/10/2025,Paid Search,35-44,Alexandria
+204,7/21/2025,Referral,35-44,Cairo
+205,7/5/2024,Social,55+,Cairo
+206,3/20/2025,Paid Search,25-34,Tanta
+207,7/23/2025,Paid Search,45-54,Cairo
+208,12/28/2024,Social,35-44,Giza
+209,5/2/2024,Paid Search,25-34,Aswan
+210,7/6/2024,Paid Search,35-44,Cairo
+211,2/23/2025,Social,25-34,Aswan
+212,9/17/2025,Social,35-44,Aswan
+213,9/8/2024,Social,45-54,Alexandria
+214,9/10/2025,Paid Search,35-44,Cairo
+215,7/2/2025,Social,35-44,Giza
+216,11/30/2024,Paid Search,35-44,Giza
+217,4/1/2024,Organic,18-24,Giza
+218,6/13/2025,Email,25-34,Cairo
+219,3/3/2024,Social,35-44,Aswan
+220,10/23/2025,Email,25-34,Cairo
+221,5/26/2025,Social,25-34,Mansoura
+222,5/18/2024,Social,35-44,Cairo
+223,7/3/2024,Paid Search,25-34,Alexandria
+224,7/23/2024,Organic,25-34,Aswan
+225,8/1/2024,Paid Search,25-34,Cairo
+226,9/12/2024,Paid Search,18-24,Cairo
+227,5/14/2024,Referral,55+,Alexandria
+228,7/26/2025,Organic,45-54,Mansoura
+229,3/28/2024,Referral,35-44,Mansoura
+230,7/25/2024,Social,18-24,Giza
+231,5/8/2024,Email,45-54,Cairo
+232,1/3/2024,Organic,45-54,Aswan
+233,4/30/2024,Social,45-54,Aswan
+234,1/19/2025,Organic,18-24,Giza
+235,9/5/2025,Paid Search,35-44,Tanta
+236,2/7/2024,Social,45-54,Giza
+237,12/6/2024,Paid Search,35-44,Giza
+238,10/6/2025,Paid Search,35-44,Cairo
+239,1/21/2024,Social,25-34,Giza
+240,8/29/2024,Paid Search,35-44,Alexandria
+241,3/30/2025,Referral,18-24,Cairo
+242,9/12/2025,Referral,35-44,Giza
+243,10/29/2024,Referral,18-24,Mansoura
+244,8/18/2025,Organic,25-34,Mansoura
+245,8/17/2025,Paid Search,25-34,Alexandria
+246,3/9/2024,Referral,35-44,Aswan
+247,5/8/2024,Organic,18-24,Cairo
+248,7/14/2024,Referral,35-44,Alexandria
+249,5/19/2024,Referral,45-54,Mansoura
+250,3/19/2025,Email,25-34,Alexandria
+251,10/9/2024,Paid Search,18-24,Giza
+252,11/7/2024,Organic,18-24,Cairo
+253,6/18/2025,Email,45-54,Tanta
+254,10/26/2025,Paid Search,35-44,Giza
+255,10/3/2024,Paid Search,25-34,Tanta
+256,3/1/2024,Social,18-24,Alexandria
+257,11/14/2024,Referral,35-44,Alexandria
+258,2/21/2024,Social,45-54,Tanta
+259,6/1/2024,Social,45-54,Alexandria
+260,11/6/2024,Paid Search,35-44,Giza
+261,6/27/2025,Social,18-24,Alexandria
+262,7/20/2025,Referral,18-24,Tanta
+263,1/23/2025,Paid Search,18-24,Giza
+264,7/1/2025,Organic,25-34,Giza
+265,9/13/2025,Referral,18-24,Cairo
+266,6/25/2024,Email,25-34,Aswan
+267,12/27/2024,Social,25-34,Cairo
+268,11/9/2024,Social,55+,Alexandria
+269,4/6/2024,Organic,35-44,Giza
+270,7/31/2024,Paid Search,45-54,Giza
+271,5/16/2024,Email,35-44,Alexandria
+272,1/6/2024,Email,18-24,Cairo
+273,4/18/2024,Referral,35-44,Alexandria
+274,6/30/2025,Referral,25-34,Mansoura
+275,2/8/2024,Organic,35-44,Tanta
+276,10/23/2025,Organic,25-34,Cairo
+277,2/28/2025,Email,55+,Tanta
+278,9/21/2025,Social,25-34,Alexandria
+279,9/17/2024,Social,25-34,Tanta
+280,3/1/2025,Email,55+,Giza
+281,3/27/2024,Referral,18-24,Alexandria
+282,4/9/2025,Organic,35-44,Aswan
+283,3/16/2024,Organic,35-44,Tanta
+284,4/15/2025,Paid Search,45-54,Giza
+285,2/17/2025,Social,55+,Cairo
+286,4/1/2025,Paid Search,55+,Giza
+287,10/11/2024,Organic,18-24,Giza
+288,8/26/2024,Social,45-54,Cairo
+289,8/21/2025,Paid Search,35-44,Cairo
+290,10/14/2025,Social,35-44,Tanta
+291,7/11/2025,Paid Search,18-24,Cairo
+292,1/6/2025,Paid Search,35-44,Alexandria
+293,5/9/2025,Email,55+,Cairo
+294,9/15/2025,Organic,55+,Giza
+295,2/14/2024,Paid Search,25-34,Cairo
+296,2/4/2025,Organic,18-24,Cairo
+297,9/3/2024,Email,25-34,Mansoura
+298,9/7/2025,Paid Search,45-54,Tanta
+299,8/19/2025,Social,35-44,Cairo
+300,3/25/2025,Paid Search,25-34,Giza
+301,4/29/2025,Paid Search,18-24,Giza
+302,10/7/2025,Organic,25-34,Tanta
+303,9/11/2025,Social,25-34,Mansoura
+304,1/18/2024,Social,55+,Alexandria
+305,8/28/2025,Social,35-44,Alexandria
+306,10/23/2025,Referral,25-34,Tanta
+307,10/15/2024,Organic,35-44,Cairo
+308,2/17/2025,Organic,18-24,Giza
+309,9/29/2025,Email,55+,Aswan
+310,8/22/2024,Paid Search,25-34,Mansoura
+311,2/19/2025,Organic,35-44,Alexandria
+312,5/13/2025,Paid Search,25-34,Alexandria
+313,9/25/2025,Paid Search,35-44,Giza
+314,10/11/2025,Referral,35-44,Alexandria
+315,4/24/2024,Email,35-44,Alexandria
+316,8/21/2024,Social,25-34,Giza
+317,6/23/2025,Organic,25-34,Mansoura
+318,1/11/2024,Paid Search,18-24,Tanta
+319,7/24/2024,Paid Search,35-44,Cairo
+320,9/3/2024,Paid Search,18-24,Giza
+321,7/12/2025,Social,35-44,Giza
+322,5/6/2024,Social,45-54,Mansoura
+323,5/26/2024,Social,45-54,Cairo
+324,4/27/2024,Paid Search,25-34,Alexandria
+325,1/16/2025,Referral,25-34,Tanta
+326,2/15/2025,Social,18-24,Giza
+327,10/25/2025,Social,35-44,Aswan
+328,8/6/2025,Social,45-54,Aswan
+329,12/28/2024,Organic,25-34,Cairo
+330,5/23/2025,Paid Search,25-34,Cairo
+331,5/16/2024,Organic,45-54,Aswan
+332,6/23/2024,Email,45-54,Aswan
+333,10/15/2024,Paid Search,25-34,Cairo
+334,4/25/2025,Paid Search,35-44,Cairo
+335,1/19/2024,Paid Search,25-34,Cairo
+336,7/13/2024,Paid Search,18-24,Aswan
+337,11/25/2024,Email,55+,Cairo
+338,6/23/2024,Social,45-54,Alexandria
+339,3/24/2025,Organic,45-54,Tanta
+340,12/19/2024,Paid Search,18-24,Cairo
+341,5/13/2025,Organic,45-54,Alexandria
+342,5/20/2024,Organic,25-34,Cairo
+343,4/2/2024,Paid Search,25-34,Tanta
+344,8/26/2024,Organic,35-44,Cairo
+345,7/23/2024,Organic,18-24,Mansoura
+346,7/13/2025,Social,45-54,Alexandria
+347,3/8/2025,Social,35-44,Cairo
+348,9/1/2024,Paid Search,25-34,Cairo
+349,11/12/2024,Organic,25-34,Giza
+350,10/21/2024,Social,25-34,Cairo
+351,10/1/2025,Organic,18-24,Tanta
+352,10/8/2024,Email,35-44,Tanta
+353,1/17/2024,Social,45-54,Giza
+354,3/11/2024,Paid Search,18-24,Alexandria
+355,9/25/2024,Paid Search,18-24,Alexandria
+356,11/20/2024,Social,35-44,Tanta
+357,10/31/2024,Paid Search,45-54,Giza
+358,3/26/2025,Social,25-34,Cairo
+359,1/7/2024,Referral,25-34,Cairo
+360,11/9/2024,Social,35-44,Alexandria
+361,4/12/2024,Organic,25-34,Giza
+362,7/11/2024,Social,18-24,Giza
+363,7/27/2025,Organic,35-44,Cairo
+364,6/12/2025,Social,35-44,Mansoura
+365,6/19/2024,Referral,35-44,Cairo
+366,6/20/2025,Organic,45-54,Cairo
+367,9/7/2024,Referral,35-44,Giza
+368,1/21/2025,Referral,25-34,Cairo
+369,7/25/2024,Paid Search,25-34,Alexandria
+370,6/24/2025,Paid Search,18-24,Giza
+371,9/20/2025,Paid Search,18-24,Giza
+372,2/19/2025,Paid Search,35-44,Alexandria
+373,1/14/2025,Paid Search,45-54,Cairo
+374,5/23/2024,Social,55+,Cairo
+375,1/25/2024,Paid Search,35-44,Tanta
+376,10/29/2025,Paid Search,25-34,Giza
+377,3/13/2024,Email,18-24,Giza
+378,9/23/2025,Paid Search,45-54,Cairo
+379,4/2/2024,Email,35-44,Giza
+380,5/19/2025,Paid Search,35-44,Alexandria
+381,8/20/2025,Paid Search,45-54,Alexandria
+382,12/1/2024,Social,35-44,Mansoura
+383,2/28/2025,Social,45-54,Cairo
+384,5/13/2025,Referral,18-24,Cairo
+385,12/29/2024,Social,45-54,Tanta
+386,9/21/2025,Email,45-54,Aswan
+387,7/17/2024,Paid Search,25-34,Cairo
+388,2/16/2025,Paid Search,35-44,Giza
+389,12/4/2024,Email,25-34,Cairo
+390,10/20/2025,Email,55+,Cairo
+391,3/4/2025,Referral,18-24,Giza
+392,5/18/2024,Organic,35-44,Cairo
+393,6/25/2025,Organic,25-34,Mansoura
+394,2/26/2024,Email,35-44,Alexandria
+395,8/19/2024,Organic,25-34,Cairo
+396,10/19/2025,Referral,25-34,Cairo
+397,3/10/2025,Email,35-44,Tanta
+398,1/18/2025,Organic,55+,Cairo
+399,7/13/2025,Email,25-34,Alexandria
+400,7/12/2024,Email,18-24,Giza
+401,10/9/2025,Paid Search,45-54,Alexandria
+402,6/17/2025,Referral,35-44,Giza
+403,6/1/2025,Organic,55+,Cairo
+404,7/3/2024,Email,18-24,Cairo
+405,10/18/2024,Organic,35-44,Cairo
+406,11/30/2024,Referral,25-34,Giza
+407,4/25/2024,Organic,25-34,Alexandria
+408,2/18/2024,Paid Search,35-44,Cairo
+409,3/22/2024,Referral,35-44,Cairo
+410,11/28/2024,Paid Search,45-54,Alexandria
+411,7/10/2025,Paid Search,25-34,Alexandria
+412,11/30/2024,Referral,25-34,Aswan
+413,6/15/2025,Referral,25-34,Alexandria
+414,8/8/2024,Social,55+,Giza
+415,9/26/2025,Social,25-34,Alexandria
+416,11/18/2024,Organic,25-34,Aswan
+417,1/3/2024,Paid Search,25-34,Tanta
+418,7/24/2024,Organic,35-44,Giza
+419,2/9/2024,Social,25-34,Cairo
+420,2/28/2024,Email,55+,Cairo
+421,7/27/2025,Email,25-34,Alexandria
+422,10/5/2025,Email,45-54,Mansoura
+423,5/21/2025,Paid Search,18-24,Alexandria
+424,7/25/2025,Organic,35-44,Cairo
+425,5/1/2024,Paid Search,55+,Mansoura
+426,4/23/2025,Social,25-34,Tanta
+427,9/10/2025,Organic,55+,Cairo
+428,4/5/2024,Referral,25-34,Alexandria
+429,2/17/2025,Organic,55+,Giza
+430,8/22/2024,Paid Search,35-44,Tanta
+431,3/2/2024,Paid Search,25-34,Tanta
+432,9/12/2024,Email,25-34,Alexandria
+433,7/14/2025,Social,25-34,Mansoura
+434,12/13/2024,Paid Search,18-24,Tanta
+435,5/3/2024,Paid Search,18-24,Giza
+436,4/26/2025,Social,18-24,Giza
+437,11/12/2024,Paid Search,25-34,Mansoura
+438,5/18/2025,Email,45-54,Cairo
+439,2/17/2024,Social,18-24,Giza
+440,2/12/2025,Paid Search,18-24,Tanta
+441,5/15/2024,Paid Search,35-44,Mansoura
+442,7/19/2024,Referral,25-34,Giza
+443,9/6/2024,Organic,18-24,Cairo
+444,11/9/2024,Organic,25-34,Giza
+445,1/2/2025,Email,55+,Cairo
+446,3/4/2025,Referral,45-54,Cairo
+447,4/24/2025,Referral,25-34,Mansoura
+448,11/9/2024,Email,35-44,Cairo
+449,5/14/2025,Organic,35-44,Giza
+450,12/20/2024,Paid Search,35-44,Giza
+451,4/29/2025,Email,35-44,Aswan
+452,7/29/2024,Social,35-44,Giza
+453,2/13/2024,Organic,25-34,Cairo
+454,6/24/2025,Referral,18-24,Cairo
+455,7/24/2025,Paid Search,25-34,Alexandria
+456,8/5/2025,Organic,45-54,Alexandria
+457,4/1/2024,Paid Search,35-44,Giza
+458,9/21/2024,Organic,45-54,Giza
+459,8/7/2024,Paid Search,55+,Cairo
+460,3/17/2025,Paid Search,25-34,Alexandria
+461,2/4/2025,Paid Search,35-44,Alexandria
+462,2/3/2025,Social,35-44,Cairo
+463,7/29/2025,Email,55+,Cairo
+464,5/4/2025,Social,55+,Cairo
+465,4/29/2025,Referral,35-44,Cairo
+466,4/14/2025,Organic,25-34,Alexandria
+467,7/27/2025,Paid Search,45-54,Cairo
+468,3/20/2025,Referral,18-24,Cairo
+469,9/25/2024,Paid Search,45-54,Cairo
+470,9/23/2024,Referral,55+,Aswan
+471,2/23/2024,Paid Search,25-34,Tanta
+472,6/11/2025,Referral,35-44,Cairo
+473,6/3/2025,Paid Search,25-34,Giza
+474,9/7/2025,Referral,25-34,Cairo
+475,2/28/2024,Organic,25-34,Giza
+476,2/9/2024,Referral,45-54,Cairo
+477,8/24/2024,Paid Search,55+,Alexandria
+478,1/20/2025,Social,55+,Alexandria
+479,8/28/2025,Referral,25-34,Tanta
+480,10/11/2025,Organic,45-54,Cairo
+481,10/26/2024,Social,35-44,Tanta
+482,1/29/2025,Social,25-34,Mansoura
+483,7/25/2024,Organic,18-24,Cairo
+484,12/1/2024,Social,25-34,Giza
+485,8/15/2025,Social,55+,Cairo
+486,5/28/2025,Referral,35-44,Cairo
+487,6/26/2024,Paid Search,35-44,Cairo
+488,1/30/2025,Paid Search,25-34,Alexandria
+489,1/5/2025,Referral,35-44,Giza
+490,10/19/2025,Referral,18-24,Aswan
+491,11/13/2024,Organic,25-34,Cairo
+492,1/3/2025,Social,35-44,Aswan
+493,1/18/2025,Paid Search,18-24,Cairo
+494,3/2/2024,Paid Search,45-54,Mansoura
+495,5/19/2025,Organic,25-34,Giza
+496,8/26/2024,Organic,35-44,Cairo
+497,7/13/2024,Social,25-34,Tanta
+498,8/9/2024,Paid Search,35-44,Giza
+499,3/1/2024,Referral,18-24,Alexandria
+500,5/8/2024,Referral,18-24,Alexandria
+501,6/4/2024,Social,55+,Giza
+502,1/12/2025,Organic,25-34,Giza
+503,9/13/2025,Paid Search,45-54,Mansoura
+504,8/8/2025,Email,55+,Cairo
+505,3/12/2025,Social,25-34,Alexandria
+506,7/25/2024,Paid Search,25-34,Tanta
+507,1/22/2025,Referral,35-44,Cairo
+508,4/24/2025,Email,55+,Cairo
+509,12/5/2024,Referral,55+,Mansoura
+510,12/5/2024,Social,35-44,Giza
+511,7/22/2024,Social,45-54,Giza
+512,6/9/2024,Organic,18-24,Cairo
+513,6/23/2025,Referral,55+,Alexandria
+514,1/26/2025,Referral,55+,Cairo
+515,7/28/2025,Paid Search,25-34,Giza
+516,6/17/2025,Paid Search,25-34,Mansoura
+517,3/10/2024,Organic,18-24,Cairo
+518,2/8/2025,Email,25-34,Giza
+519,8/30/2025,Referral,45-54,Aswan
+520,8/13/2025,Paid Search,25-34,Mansoura
+521,5/31/2025,Social,18-24,Tanta
+522,4/29/2024,Organic,25-34,Giza
+523,8/4/2024,Referral,55+,Mansoura
+524,2/25/2024,Email,35-44,Cairo
+525,12/31/2024,Email,25-34,Cairo
+526,5/18/2025,Organic,25-34,Cairo
+527,3/30/2025,Organic,55+,Giza
+528,4/13/2024,Paid Search,45-54,Tanta
+529,3/17/2024,Paid Search,25-34,Giza
+530,8/17/2024,Referral,18-24,Alexandria
+531,9/14/2024,Email,18-24,Mansoura
+532,9/20/2024,Referral,18-24,Alexandria
+533,11/26/2024,Referral,35-44,Giza
+534,6/30/2024,Social,55+,Alexandria
+535,7/3/2025,Email,35-44,Giza
+536,1/27/2024,Referral,45-54,Cairo
+537,10/2/2024,Email,25-34,Aswan
+538,10/13/2025,Paid Search,35-44,Cairo
+539,10/25/2024,Organic,35-44,Cairo
+540,3/31/2024,Paid Search,25-34,Tanta
+541,4/24/2025,Referral,25-34,Giza
+542,7/26/2025,Social,35-44,Alexandria
+543,4/2/2025,Paid Search,18-24,Giza
+544,3/26/2025,Social,25-34,Giza
+545,12/30/2024,Social,35-44,Cairo
+546,12/16/2024,Organic,55+,Giza
+547,10/16/2025,Paid Search,35-44,Giza
+548,2/3/2025,Social,45-54,Mansoura
+549,9/9/2024,Organic,25-34,Alexandria
+550,4/3/2025,Email,45-54,Aswan
+551,5/13/2025,Organic,35-44,Cairo
+552,5/22/2025,Email,45-54,Alexandria
+553,10/30/2024,Social,25-34,Alexandria
+554,5/15/2025,Social,35-44,Aswan
+555,8/20/2025,Referral,35-44,Cairo
+556,6/14/2024,Organic,25-34,Alexandria
+557,2/18/2025,Paid Search,18-24,Tanta
+558,4/6/2025,Paid Search,18-24,Cairo
+559,4/23/2024,Email,18-24,Tanta
+560,3/8/2025,Social,45-54,Cairo
+561,12/21/2024,Social,25-34,Mansoura
+562,7/25/2024,Paid Search,25-34,Aswan
+563,8/22/2024,Paid Search,35-44,Alexandria
+564,3/17/2025,Paid Search,25-34,Giza
+565,12/20/2024,Organic,35-44,Cairo
+566,5/29/2025,Social,25-34,Aswan
+567,7/26/2024,Organic,55+,Giza
+568,5/4/2024,Organic,45-54,Cairo
+569,5/17/2024,Referral,45-54,Mansoura
+570,12/4/2024,Organic,25-34,Giza
+571,6/20/2025,Organic,45-54,Cairo
+572,3/8/2024,Email,18-24,Cairo
+573,7/26/2025,Organic,18-24,Cairo
+574,6/24/2025,Social,18-24,Alexandria
+575,1/17/2025,Referral,35-44,Alexandria
+576,1/19/2024,Referral,25-34,Alexandria
+577,3/25/2025,Paid Search,35-44,Tanta
+578,3/14/2024,Referral,18-24,Tanta
+579,7/26/2025,Organic,25-34,Alexandria
+580,10/26/2025,Paid Search,35-44,Cairo
+581,10/2/2024,Organic,25-34,Mansoura
+582,2/17/2024,Referral,35-44,Giza
+583,7/29/2024,Organic,25-34,Alexandria
+584,10/12/2025,Organic,45-54,Alexandria
+585,9/13/2025,Social,35-44,Giza
+586,6/23/2025,Paid Search,25-34,Aswan
+587,7/9/2024,Paid Search,25-34,Cairo
+588,11/10/2024,Paid Search,35-44,Alexandria
+589,7/16/2025,Paid Search,45-54,Cairo
+590,10/22/2025,Paid Search,25-34,Aswan
+591,7/15/2025,Paid Search,25-34,Cairo
+592,4/22/2024,Social,45-54,Cairo
+593,6/18/2024,Paid Search,35-44,Giza
+594,4/12/2025,Organic,25-34,Giza
+595,1/14/2024,Referral,35-44,Cairo
+596,10/14/2024,Organic,25-34,Alexandria
+597,7/7/2024,Social,35-44,Giza
+598,6/3/2024,Paid Search,25-34,Cairo
+599,7/20/2025,Paid Search,55+,Giza
+600,4/15/2025,Paid Search,35-44,Tanta
+601,3/15/2024,Paid Search,35-44,Mansoura
+602,10/3/2024,Paid Search,35-44,Mansoura
+603,10/6/2025,Paid Search,55+,Mansoura
+604,12/8/2024,Paid Search,45-54,Giza
+605,2/28/2025,Paid Search,25-34,Cairo
+606,7/24/2025,Organic,35-44,Cairo
+607,5/25/2025,Paid Search,35-44,Tanta
+608,6/30/2024,Organic,35-44,Aswan
+609,4/2/2025,Organic,25-34,Giza
+610,3/4/2024,Social,25-34,Cairo
+611,9/16/2024,Paid Search,25-34,Cairo
+612,7/11/2024,Email,55+,Giza
+613,10/16/2025,Social,25-34,Alexandria
+614,9/7/2025,Paid Search,55+,Cairo
+615,2/9/2025,Referral,35-44,Aswan
+616,4/2/2024,Referral,35-44,Giza
+617,3/5/2025,Paid Search,35-44,Aswan
+618,10/15/2025,Paid Search,18-24,Mansoura
+619,3/9/2025,Email,25-34,Mansoura
+620,2/7/2025,Email,18-24,Alexandria
+621,3/9/2025,Paid Search,35-44,Alexandria
+622,4/21/2024,Paid Search,25-34,Alexandria
+623,1/9/2025,Organic,45-54,Alexandria
+624,2/28/2024,Organic,25-34,Alexandria
+625,2/12/2024,Social,25-34,Aswan
+626,7/25/2024,Organic,25-34,Mansoura
+627,10/22/2024,Organic,55+,Mansoura
+628,4/27/2024,Email,35-44,Tanta
+629,6/15/2025,Paid Search,25-34,Cairo
+630,8/9/2024,Paid Search,35-44,Cairo
+631,6/14/2024,Social,18-24,Giza
+632,10/4/2025,Referral,55+,Alexandria
+633,6/4/2024,Organic,35-44,Tanta
+634,7/2/2024,Organic,25-34,Giza
+635,3/30/2024,Paid Search,35-44,Alexandria
+636,4/3/2024,Organic,18-24,Alexandria
+637,1/13/2024,Organic,55+,Cairo
+638,3/13/2025,Paid Search,25-34,Alexandria
+639,6/21/2025,Paid Search,35-44,Tanta
+640,8/9/2025,Organic,25-34,Cairo
+641,5/29/2024,Paid Search,35-44,Alexandria
+642,10/21/2025,Organic,45-54,Alexandria
+643,1/8/2024,Paid Search,35-44,Cairo
+644,1/29/2024,Organic,35-44,Cairo
+645,10/22/2024,Paid Search,45-54,Aswan
+646,10/1/2025,Referral,18-24,Giza
+647,12/5/2024,Social,25-34,Cairo
+648,9/19/2025,Social,25-34,Cairo
+649,3/14/2025,Email,55+,Alexandria
+650,5/23/2024,Organic,25-34,Alexandria
+651,6/2/2025,Paid Search,35-44,Alexandria
+652,2/14/2024,Organic,35-44,Cairo
+653,8/26/2024,Social,25-34,Tanta
+654,6/3/2024,Email,25-34,Giza
+655,6/29/2024,Organic,25-34,Giza
+656,8/2/2024,Paid Search,25-34,Giza
+657,3/28/2024,Paid Search,25-34,Giza
+658,9/12/2024,Organic,18-24,Tanta
+659,5/25/2025,Social,45-54,Aswan
+660,3/13/2024,Social,55+,Giza
+661,6/27/2024,Organic,25-34,Tanta
+662,7/30/2024,Referral,25-34,Mansoura
+663,8/21/2024,Social,18-24,Aswan
+664,4/9/2025,Paid Search,35-44,Cairo
+665,8/10/2024,Paid Search,45-54,Alexandria
+666,9/22/2025,Paid Search,18-24,Cairo
+667,9/20/2024,Paid Search,25-34,Tanta
+668,7/25/2024,Paid Search,45-54,Cairo
+669,8/29/2025,Paid Search,35-44,Alexandria
+670,12/31/2024,Paid Search,18-24,Giza
+671,10/2/2024,Paid Search,35-44,Giza
+672,1/14/2025,Referral,25-34,Alexandria
+673,11/4/2024,Paid Search,25-34,Tanta
+674,9/22/2025,Organic,45-54,Alexandria
+675,9/24/2024,Organic,45-54,Tanta
+676,3/4/2024,Referral,25-34,Cairo
+677,12/15/2024,Paid Search,55+,Alexandria
+678,5/8/2025,Organic,25-34,Giza
+679,6/6/2025,Referral,45-54,Cairo
+680,4/7/2024,Referral,35-44,Alexandria
+681,3/11/2024,Email,45-54,Alexandria
+682,12/29/2024,Paid Search,55+,Alexandria
+683,7/23/2025,Paid Search,18-24,Mansoura
+684,10/2/2024,Social,55+,Alexandria
+685,2/19/2024,Referral,45-54,Cairo
+686,12/23/2024,Social,45-54,Cairo
+687,7/17/2025,Social,25-34,Alexandria
+688,4/29/2025,Paid Search,45-54,Cairo
+689,3/24/2024,Email,45-54,Cairo
+690,9/29/2025,Paid Search,25-34,Giza
+691,8/6/2025,Organic,55+,Alexandria
+692,10/22/2024,Organic,18-24,Giza
+693,8/23/2024,Organic,18-24,Mansoura
+694,2/25/2024,Paid Search,35-44,Alexandria
+695,12/25/2024,Paid Search,35-44,Giza
+696,4/19/2024,Social,35-44,Mansoura
+697,7/10/2024,Paid Search,18-24,Alexandria
+698,4/2/2024,Social,55+,Alexandria
+699,7/21/2025,Paid Search,18-24,Alexandria
+700,2/29/2024,Organic,18-24,Cairo
+701,10/11/2025,Organic,18-24,Mansoura
+702,2/8/2024,Paid Search,35-44,Giza
+703,6/23/2025,Organic,55+,Aswan
+704,2/18/2024,Paid Search,35-44,Tanta
+705,2/23/2025,Paid Search,45-54,Alexandria
+706,9/28/2025,Referral,18-24,Cairo
+707,1/13/2024,Organic,35-44,Cairo
+708,2/5/2024,Email,25-34,Giza
+709,4/10/2024,Paid Search,35-44,Giza
+710,3/26/2024,Social,18-24,Cairo
+711,5/30/2025,Email,35-44,Alexandria
+712,8/10/2024,Social,35-44,Cairo
+713,12/3/2024,Organic,45-54,Aswan
+714,6/14/2024,Organic,35-44,Cairo
+715,1/17/2025,Organic,18-24,Aswan
+716,1/10/2025,Referral,35-44,Aswan
+717,4/15/2025,Email,25-34,Alexandria
+718,10/3/2025,Referral,45-54,Mansoura
+719,1/31/2024,Paid Search,35-44,Giza
+720,1/9/2025,Social,25-34,Alexandria
+721,1/11/2024,Referral,55+,Giza
+722,10/28/2024,Paid Search,35-44,Giza
+723,4/5/2024,Paid Search,18-24,Alexandria
+724,7/8/2024,Email,35-44,Giza
+725,3/28/2025,Social,25-34,Alexandria
+726,7/10/2024,Email,45-54,Cairo
+727,4/30/2025,Paid Search,45-54,Giza
+728,9/22/2024,Email,55+,Cairo
+729,2/27/2025,Paid Search,35-44,Cairo
+730,5/7/2024,Paid Search,25-34,Cairo
+731,8/25/2024,Paid Search,45-54,Cairo
+732,12/20/2024,Email,18-24,Cairo
+733,4/21/2024,Social,35-44,Tanta
+734,3/21/2025,Organic,35-44,Cairo
+735,12/8/2024,Organic,18-24,Alexandria
+736,5/24/2024,Referral,25-34,Cairo
+737,3/5/2024,Organic,45-54,Tanta
+738,9/3/2024,Email,45-54,Giza
+739,5/4/2025,Organic,18-24,Giza
+740,3/14/2025,Organic,18-24,Alexandria
+741,4/15/2024,Organic,25-34,Giza
+742,6/29/2024,Paid Search,45-54,Alexandria
+743,7/2/2024,Email,18-24,Cairo
+744,8/13/2024,Organic,35-44,Aswan
+745,3/29/2024,Paid Search,18-24,Giza
+746,6/13/2025,Referral,35-44,Giza
+747,1/5/2025,Organic,25-34,Mansoura
+748,2/2/2025,Social,45-54,Giza
+749,4/15/2024,Referral,25-34,Tanta
+750,9/27/2024,Social,35-44,Giza
+751,5/17/2025,Paid Search,25-34,Mansoura
+752,6/8/2025,Referral,35-44,Cairo
+753,2/1/2024,Social,45-54,Tanta
+754,1/27/2025,Organic,18-24,Mansoura
+755,2/9/2024,Paid Search,45-54,Cairo
+756,10/21/2025,Email,35-44,Cairo
+757,8/5/2024,Social,18-24,Giza
+758,3/22/2024,Organic,25-34,Aswan
+759,7/19/2024,Referral,25-34,Cairo
+760,3/22/2025,Email,35-44,Giza
+761,3/3/2025,Paid Search,45-54,Cairo
+762,2/7/2024,Paid Search,18-24,Giza
+763,7/29/2024,Paid Search,35-44,Alexandria
+764,3/19/2025,Email,45-54,Aswan
+765,11/22/2024,Paid Search,55+,Alexandria
+766,8/14/2024,Social,35-44,Tanta
+767,2/17/2024,Email,55+,Alexandria
+768,1/18/2024,Referral,35-44,Cairo
+769,3/14/2025,Organic,25-34,Giza
+770,7/5/2024,Email,45-54,Alexandria
+771,12/10/2024,Paid Search,35-44,Aswan
+772,8/11/2024,Email,35-44,Tanta
+773,5/2/2025,Paid Search,35-44,Cairo
+774,8/16/2024,Organic,45-54,Cairo
+775,1/24/2025,Email,45-54,Cairo
+776,8/11/2025,Paid Search,25-34,Aswan
+777,7/6/2024,Paid Search,25-34,Tanta
+778,9/26/2024,Social,35-44,Mansoura
+779,8/29/2025,Social,35-44,Giza
+780,11/5/2024,Social,25-34,Alexandria
+781,5/11/2024,Social,45-54,Giza
+782,7/4/2025,Social,35-44,Cairo
+783,3/12/2024,Paid Search,25-34,Alexandria
+784,7/5/2024,Organic,18-24,Cairo
+785,4/30/2025,Paid Search,25-34,Cairo
+786,7/9/2024,Referral,55+,Tanta
+787,2/25/2025,Social,25-34,Mansoura
+788,4/29/2024,Organic,25-34,Giza
+789,8/7/2024,Organic,25-34,Alexandria
+790,2/22/2024,Referral,25-34,Giza
+791,3/26/2025,Paid Search,18-24,Mansoura
+792,2/15/2025,Social,25-34,Mansoura
+793,10/4/2025,Organic,35-44,Mansoura
+794,8/24/2024,Social,35-44,Mansoura
+795,2/9/2025,Paid Search,25-34,Cairo
+796,8/30/2025,Referral,25-34,Giza
+797,2/25/2025,Referral,55+,Giza
+798,9/3/2024,Social,25-34,Giza
+799,3/12/2024,Social,25-34,Mansoura
+800,7/3/2024,Referral,25-34,Giza
+801,1/6/2024,Social,25-34,Cairo
+802,7/24/2024,Paid Search,45-54,Giza
+803,6/27/2025,Social,25-34,Aswan
+804,9/2/2025,Social,35-44,Cairo
+805,1/21/2025,Organic,18-24,Alexandria
+806,3/16/2024,Social,25-34,Giza
+807,6/25/2024,Referral,45-54,Cairo
+808,12/14/2024,Referral,25-34,Giza
+809,9/11/2024,Organic,35-44,Mansoura
+810,11/3/2024,Paid Search,25-34,Alexandria
+811,12/10/2024,Referral,45-54,Tanta
+812,5/6/2024,Email,18-24,Cairo
+813,10/13/2024,Paid Search,45-54,Cairo
+814,8/18/2025,Referral,25-34,Aswan
+815,5/1/2025,Referral,45-54,Giza
+816,1/17/2025,Organic,25-34,Alexandria
+817,2/9/2025,Social,35-44,Mansoura
+818,1/22/2025,Organic,25-34,Giza
+819,6/8/2025,Paid Search,55+,Mansoura
+820,7/10/2025,Organic,18-24,Cairo
+821,9/30/2025,Email,25-34,Cairo
+822,9/17/2025,Paid Search,35-44,Cairo
+823,10/2/2024,Organic,18-24,Tanta
+824,5/14/2025,Organic,25-34,Cairo
+825,12/2/2024,Organic,55+,Mansoura
+826,4/25/2025,Referral,55+,Aswan
+827,9/29/2024,Organic,25-34,Alexandria
+828,2/27/2024,Organic,55+,Alexandria
+829,11/23/2024,Social,35-44,Giza
+830,4/18/2024,Organic,25-34,Giza
+831,10/5/2024,Paid Search,35-44,Giza
+832,11/23/2024,Organic,35-44,Alexandria
+833,11/10/2024,Paid Search,55+,Aswan
+834,4/18/2025,Paid Search,25-34,Aswan
+835,4/20/2024,Organic,35-44,Tanta
+836,8/16/2024,Organic,18-24,Tanta
+837,5/11/2025,Referral,18-24,Giza
+838,6/4/2024,Organic,18-24,Alexandria
+839,4/17/2025,Social,55+,Tanta
+840,9/28/2024,Social,45-54,Giza
+841,1/2/2024,Paid Search,45-54,Aswan
+842,5/25/2025,Social,35-44,Giza
+843,10/12/2024,Paid Search,25-34,Alexandria
+844,1/13/2024,Referral,25-34,Mansoura
+845,8/30/2025,Paid Search,25-34,Aswan
+846,5/12/2025,Organic,25-34,Cairo
+847,8/25/2024,Paid Search,45-54,Mansoura
+848,4/3/2024,Referral,35-44,Alexandria
+849,12/3/2024,Organic,18-24,Cairo
+850,6/19/2024,Social,18-24,Mansoura
+851,8/28/2025,Paid Search,18-24,Alexandria
+852,10/22/2025,Email,25-34,Alexandria
+853,9/15/2025,Paid Search,55+,Giza
+854,7/20/2025,Referral,35-44,Giza
+855,4/11/2025,Paid Search,45-54,Alexandria
+856,9/19/2025,Paid Search,25-34,Giza
+857,5/22/2024,Paid Search,25-34,Cairo
+858,7/19/2024,Organic,18-24,Aswan
+859,6/28/2024,Social,45-54,Alexandria
+860,12/29/2024,Paid Search,45-54,Mansoura
+861,4/23/2025,Email,25-34,Giza
+862,7/18/2025,Organic,35-44,Giza
+863,4/15/2025,Organic,35-44,Giza
+864,1/18/2025,Organic,35-44,Giza
+865,2/20/2025,Organic,55+,Alexandria
+866,11/3/2024,Social,35-44,Alexandria
+867,10/10/2025,Paid Search,35-44,Giza
+868,1/1/2025,Paid Search,18-24,Cairo
+869,1/1/2024,Referral,18-24,Giza
+870,2/13/2024,Referral,25-34,Cairo
+871,4/7/2024,Organic,18-24,Cairo
+872,9/21/2024,Paid Search,45-54,Aswan
+873,5/19/2024,Social,35-44,Alexandria
+874,4/25/2025,Organic,18-24,Alexandria
+875,8/24/2024,Paid Search,45-54,Giza
+876,3/12/2024,Paid Search,25-34,Aswan
+877,10/28/2025,Social,25-34,Alexandria
+878,7/8/2024,Social,25-34,Mansoura
+879,9/24/2024,Paid Search,25-34,Giza
+880,11/16/2024,Paid Search,25-34,Aswan
+881,4/16/2024,Paid Search,35-44,Tanta
+882,8/19/2024,Social,25-34,Tanta
+883,2/11/2024,Paid Search,55+,Cairo
+884,5/18/2024,Paid Search,18-24,Cairo
+885,9/6/2025,Email,18-24,Cairo
+886,9/29/2024,Paid Search,18-24,Cairo
+887,4/25/2025,Social,35-44,Tanta
+888,2/19/2025,Paid Search,18-24,Cairo
+889,5/20/2025,Paid Search,45-54,Cairo
+890,2/27/2025,Paid Search,35-44,Cairo
+891,2/10/2025,Social,35-44,Cairo
+892,7/21/2025,Email,35-44,Cairo
+893,1/24/2025,Email,25-34,Mansoura
+894,12/7/2024,Organic,25-34,Alexandria
+895,9/5/2025,Social,25-34,Cairo
+896,5/7/2025,Paid Search,35-44,Giza
+897,7/10/2024,Paid Search,25-34,Giza
+898,5/13/2025,Referral,18-24,Cairo
+899,8/20/2024,Paid Search,55+,Alexandria
+900,8/14/2024,Paid Search,18-24,Mansoura
+901,1/5/2025,Paid Search,45-54,Mansoura
+902,5/18/2024,Paid Search,45-54,Mansoura
+903,5/28/2024,Paid Search,25-34,Cairo
+904,4/24/2024,Social,18-24,Aswan
+905,3/25/2025,Organic,18-24,Tanta
+906,3/3/2024,Referral,35-44,Aswan
+907,4/13/2024,Email,35-44,Cairo
+908,10/29/2025,Organic,45-54,Aswan
+909,9/29/2024,Paid Search,55+,Tanta
+910,1/6/2024,Organic,35-44,Tanta
+911,5/26/2024,Social,25-34,Cairo
+912,7/2/2024,Paid Search,25-34,Mansoura
+913,1/28/2024,Social,45-54,Aswan
+914,7/3/2025,Organic,25-34,Alexandria
+915,4/28/2024,Social,18-24,Alexandria
+916,10/19/2024,Organic,35-44,Aswan
+917,1/5/2025,Paid Search,25-34,Giza
+918,8/31/2024,Referral,55+,Alexandria
+919,8/2/2025,Email,35-44,Giza
+920,8/5/2024,Paid Search,18-24,Aswan
+921,6/25/2024,Referral,55+,Cairo
+922,10/25/2024,Organic,25-34,Alexandria
+923,2/27/2024,Referral,25-34,Mansoura
+924,9/25/2024,Email,25-34,Mansoura
+925,11/3/2024,Organic,18-24,Alexandria
+926,7/23/2025,Paid Search,35-44,Aswan
+927,10/14/2024,Paid Search,18-24,Aswan
+928,4/14/2024,Social,25-34,Cairo
+929,8/15/2024,Social,25-34,Giza
+930,9/3/2024,Paid Search,45-54,Cairo
+931,5/8/2025,Paid Search,45-54,Giza
+932,3/23/2024,Email,25-34,Alexandria
+933,7/4/2024,Referral,25-34,Aswan
+934,9/8/2024,Organic,25-34,Tanta
+935,12/20/2024,Paid Search,25-34,Cairo
+936,7/28/2024,Paid Search,45-54,Cairo
+937,8/31/2025,Paid Search,35-44,Alexandria
+938,3/22/2025,Referral,25-34,Alexandria
+939,4/4/2025,Paid Search,25-34,Cairo
+940,4/16/2025,Social,18-24,Tanta
+941,1/4/2025,Paid Search,35-44,Aswan
+942,5/6/2025,Social,18-24,Giza
+943,5/16/2024,Social,55+,Tanta
+944,1/1/2025,Email,45-54,Giza
+945,7/2/2024,Paid Search,25-34,Mansoura
+946,8/10/2025,Paid Search,35-44,Giza
+947,10/13/2024,Paid Search,55+,Cairo
+948,4/16/2025,Referral,35-44,Aswan
+949,1/9/2025,Referral,25-34,Giza
+950,10/15/2025,Social,25-34,Mansoura
+951,6/20/2025,Social,45-54,Giza
+952,5/25/2025,Social,35-44,Cairo
+953,8/1/2025,Paid Search,35-44,Cairo
+954,9/6/2024,Referral,45-54,Giza
+955,5/24/2025,Organic,45-54,Mansoura
+956,9/21/2025,Organic,55+,Giza
+957,3/13/2024,Organic,18-24,Mansoura
+958,10/8/2024,Paid Search,35-44,Mansoura
+959,12/25/2024,Paid Search,45-54,Mansoura
+960,1/10/2024,Social,45-54,Giza
+961,7/29/2024,Paid Search,35-44,Aswan
+962,5/31/2024,Social,25-34,Giza
+963,1/5/2024,Paid Search,45-54,Giza
+964,7/13/2024,Organic,35-44,Cairo
+965,10/9/2024,Paid Search,18-24,Giza
+966,4/8/2025,Organic,25-34,Cairo
+967,4/22/2024,Social,25-34,Alexandria
+968,9/27/2024,Paid Search,25-34,Cairo
+969,6/11/2024,Social,18-24,Giza
+970,4/4/2025,Organic,25-34,Mansoura
+971,4/14/2024,Social,35-44,Giza
+972,7/9/2025,Referral,35-44,Cairo
+973,10/8/2024,Social,35-44,Cairo
+974,6/10/2024,Paid Search,45-54,Mansoura
+975,12/16/2024,Paid Search,25-34,Cairo
+976,3/9/2025,Paid Search,18-24,Giza
+977,5/19/2024,Social,45-54,Alexandria
+978,4/15/2025,Paid Search,25-34,Mansoura
+979,5/11/2024,Organic,55+,Alexandria
+980,3/27/2024,Social,45-54,Tanta
+981,7/1/2024,Organic,35-44,Cairo
+982,1/2/2025,Email,55+,Cairo
+983,5/8/2024,Paid Search,18-24,Cairo
+984,9/2/2024,Paid Search,25-34,Cairo
+985,8/23/2025,Social,35-44,Cairo
+986,7/31/2025,Organic,25-34,Giza
+987,10/31/2025,Social,55+,Alexandria
+988,1/12/2025,Organic,18-24,Alexandria
+989,5/28/2024,Paid Search,35-44,Giza
+990,3/8/2025,Email,35-44,Mansoura
+991,9/19/2025,Email,35-44,Giza
+992,4/13/2025,Social,25-34,Cairo
+993,3/21/2025,Paid Search,25-34,Alexandria
+994,4/25/2025,Social,45-54,Cairo
+995,10/20/2024,Organic,25-34,Cairo
+996,5/22/2024,Paid Search,45-54,Giza
+997,9/6/2024,Referral,35-44,Aswan
+998,10/28/2024,Paid Search,45-54,Mansoura
+999,1/25/2024,Referral,35-44,Cairo
+1000,3/10/2024,Organic,25-34,Tanta
+1001,9/16/2025,Paid Search,35-44,Mansoura
+1002,4/21/2024,Social,45-54,Alexandria
+1003,12/29/2024,Referral,25-34,Tanta
+1004,10/29/2024,Social,55+,Giza
+1005,4/15/2025,Email,25-34,Cairo
+1006,3/31/2024,Social,18-24,Alexandria
+1007,6/13/2025,Social,25-34,Alexandria
+1008,10/22/2025,Email,55+,Alexandria
+1009,10/24/2025,Paid Search,25-34,Alexandria
+1010,7/10/2024,Organic,45-54,Aswan
+1011,7/5/2025,Paid Search,45-54,Aswan
+1012,8/29/2024,Referral,25-34,Tanta
+1013,5/17/2024,Referral,18-24,Tanta
+1014,12/10/2024,Paid Search,35-44,Aswan
+1015,6/28/2024,Social,25-34,Cairo
+1016,5/17/2025,Referral,45-54,Cairo
+1017,7/21/2024,Paid Search,25-34,Giza
+1018,7/26/2025,Social,35-44,Tanta
+1019,7/10/2024,Referral,45-54,Alexandria
+1020,1/5/2024,Paid Search,25-34,Mansoura
+1021,8/24/2024,Social,25-34,Cairo
+1022,11/6/2024,Paid Search,25-34,Cairo
+1023,7/2/2025,Referral,25-34,Mansoura
+1024,2/25/2024,Referral,35-44,Cairo
+1025,3/18/2025,Referral,45-54,Giza
+1026,8/24/2024,Organic,25-34,Cairo
+1027,7/15/2024,Referral,35-44,Giza
+1028,8/7/2025,Email,35-44,Mansoura
+1029,7/24/2025,Paid Search,25-34,Giza
+1030,5/28/2025,Email,25-34,Alexandria
+1031,3/24/2025,Paid Search,55+,Cairo
+1032,12/25/2024,Social,35-44,Tanta
+1033,1/30/2024,Paid Search,35-44,Giza
+1034,4/17/2024,Paid Search,35-44,Alexandria
+1035,8/24/2025,Paid Search,18-24,Mansoura
+1036,3/20/2025,Social,35-44,Cairo
+1037,3/13/2025,Organic,35-44,Tanta
+1038,8/28/2025,Social,35-44,Alexandria
+1039,4/1/2025,Paid Search,25-34,Giza
+1040,9/6/2025,Paid Search,18-24,Cairo
+1041,5/9/2025,Organic,25-34,Aswan
+1042,9/3/2024,Email,55+,Mansoura
+1043,6/26/2025,Paid Search,25-34,Cairo
+1044,7/17/2025,Social,25-34,Giza
+1045,8/10/2025,Referral,18-24,Tanta
+1046,3/14/2025,Social,18-24,Mansoura
+1047,10/4/2024,Paid Search,35-44,Mansoura
+1048,7/5/2025,Paid Search,35-44,Giza
+1049,9/4/2025,Referral,35-44,Mansoura
+1050,4/20/2024,Paid Search,25-34,Giza
+1051,1/19/2025,Referral,45-54,Cairo
+1052,7/9/2024,Organic,25-34,Alexandria
+1053,5/4/2025,Referral,25-34,Aswan
+1054,3/1/2025,Email,25-34,Giza
+1055,2/8/2025,Referral,25-34,Giza
+1056,11/30/2024,Organic,25-34,Alexandria
+1057,7/27/2024,Email,35-44,Alexandria
+1058,1/22/2024,Organic,35-44,Tanta
+1059,9/2/2025,Organic,45-54,Mansoura
+1060,7/26/2024,Social,25-34,Cairo
+1061,1/8/2024,Referral,18-24,Aswan
+1062,6/12/2025,Referral,25-34,Mansoura
+1063,8/24/2025,Email,55+,Tanta
+1064,10/14/2025,Organic,35-44,Alexandria
+1065,10/18/2025,Organic,35-44,Tanta
+1066,6/14/2024,Social,18-24,Cairo
+1067,5/10/2025,Paid Search,35-44,Giza
+1068,8/12/2025,Paid Search,18-24,Tanta
+1069,3/4/2025,Organic,35-44,Cairo
+1070,6/11/2024,Paid Search,55+,Cairo
+1071,12/31/2024,Paid Search,55+,Mansoura
+1072,6/9/2025,Paid Search,35-44,Tanta
+1073,8/26/2024,Paid Search,25-34,Cairo
+1074,3/12/2024,Paid Search,55+,Tanta
+1075,3/20/2025,Referral,35-44,Mansoura
+1076,10/16/2025,Organic,18-24,Alexandria
+1077,5/23/2025,Organic,25-34,Tanta
+1078,9/25/2024,Social,25-34,Giza
+1079,2/18/2025,Paid Search,25-34,Cairo
+1080,9/1/2024,Referral,25-34,Cairo
+1081,2/29/2024,Email,35-44,Alexandria
+1082,1/6/2024,Paid Search,25-34,Alexandria
+1083,7/23/2025,Organic,25-34,Tanta
+1084,2/10/2025,Referral,35-44,Mansoura
+1085,8/4/2024,Referral,45-54,Alexandria
+1086,1/26/2024,Organic,35-44,Mansoura
+1087,1/5/2024,Social,25-34,Cairo
+1088,6/15/2025,Paid Search,55+,Cairo
+1089,1/24/2025,Referral,55+,Tanta
+1090,7/24/2025,Paid Search,25-34,Cairo
+1091,3/23/2025,Referral,18-24,Cairo
+1092,5/25/2024,Social,45-54,Mansoura
+1093,1/22/2025,Social,45-54,Giza
+1094,9/5/2024,Organic,55+,Tanta
+1095,6/9/2025,Paid Search,45-54,Cairo
+1096,4/6/2025,Paid Search,35-44,Cairo
+1097,1/13/2024,Paid Search,35-44,Giza
+1098,1/18/2025,Paid Search,18-24,Alexandria
+1099,7/9/2025,Email,25-34,Giza
+1100,2/2/2025,Organic,25-34,Alexandria
+1101,1/19/2024,Paid Search,35-44,Tanta
+1102,7/28/2025,Referral,35-44,Aswan
+1103,5/5/2025,Referral,45-54,Cairo
+1104,2/22/2025,Referral,25-34,Giza
+1105,12/2/2024,Referral,35-44,Alexandria
+1106,2/22/2025,Paid Search,18-24,Aswan
+1107,9/3/2025,Organic,25-34,Aswan
+1108,5/1/2024,Email,45-54,Cairo
+1109,3/7/2025,Social,35-44,Mansoura
+1110,2/13/2024,Paid Search,55+,Giza
+1111,11/12/2024,Email,25-34,Cairo
+1112,1/15/2025,Paid Search,35-44,Cairo
+1113,5/24/2024,Paid Search,25-34,Giza
+1114,11/22/2024,Organic,25-34,Giza
+1115,12/28/2024,Social,45-54,Cairo
+1116,2/19/2024,Social,35-44,Mansoura
+1117,3/5/2024,Paid Search,45-54,Cairo
+1118,12/20/2024,Referral,25-34,Alexandria
+1119,6/12/2024,Paid Search,45-54,Giza
+1120,5/20/2024,Paid Search,18-24,Cairo
+1121,5/7/2024,Referral,45-54,Giza
+1122,2/1/2025,Referral,25-34,Cairo
+1123,4/7/2025,Referral,25-34,Alexandria
+1124,7/5/2024,Email,35-44,Cairo
+1125,7/8/2024,Social,55+,Alexandria
+1126,1/22/2025,Social,18-24,Cairo
+1127,3/4/2025,Paid Search,25-34,Alexandria
+1128,10/10/2024,Organic,45-54,Mansoura
+1129,8/24/2024,Organic,25-34,Cairo
+1130,7/12/2024,Paid Search,25-34,Giza
+1131,10/13/2024,Social,25-34,Cairo
+1132,5/15/2024,Organic,25-34,Alexandria
+1133,6/19/2024,Paid Search,55+,Cairo
+1134,6/7/2024,Paid Search,45-54,Alexandria
+1135,7/19/2024,Social,35-44,Alexandria
+1136,5/1/2025,Paid Search,55+,Aswan
+1137,7/10/2025,Email,25-34,Alexandria
+1138,8/5/2025,Organic,18-24,Alexandria
+1139,5/18/2025,Organic,25-34,Giza
+1140,1/5/2025,Social,25-34,Aswan
+1141,4/12/2024,Email,25-34,Mansoura
+1142,5/4/2024,Organic,55+,Cairo
+1143,11/8/2024,Social,45-54,Tanta
+1144,4/2/2025,Social,25-34,Giza
+1145,8/17/2024,Paid Search,35-44,Tanta
+1146,10/19/2025,Referral,35-44,Tanta
+1147,7/15/2024,Email,55+,Cairo
+1148,2/26/2025,Social,45-54,Mansoura
+1149,7/25/2025,Email,35-44,Cairo
+1150,9/1/2025,Referral,45-54,Cairo
+1151,6/19/2024,Social,35-44,Cairo
+1152,1/16/2025,Email,35-44,Mansoura
+1153,6/21/2024,Social,18-24,Cairo
+1154,10/24/2025,Social,18-24,Cairo
+1155,3/28/2025,Social,35-44,Mansoura
+1156,12/15/2024,Email,25-34,Cairo
+1157,9/25/2025,Paid Search,18-24,Cairo
+1158,5/8/2025,Referral,35-44,Cairo
+1159,9/11/2025,Referral,18-24,Giza
+1160,1/4/2024,Paid Search,35-44,Giza
+1161,4/2/2024,Email,35-44,Cairo
+1162,1/6/2024,Paid Search,55+,Aswan
+1163,10/14/2024,Organic,35-44,Mansoura
+1164,9/9/2025,Email,18-24,Giza
+1165,5/25/2024,Paid Search,35-44,Giza
+1166,2/27/2025,Email,45-54,Giza
+1167,8/30/2025,Email,55+,Alexandria
+1168,4/1/2025,Organic,25-34,Cairo
+1169,7/20/2024,Paid Search,25-34,Cairo
+1170,7/30/2024,Paid Search,55+,Tanta
+1171,1/6/2024,Social,25-34,Cairo
+1172,9/15/2025,Referral,35-44,Giza
+1173,1/10/2025,Social,25-34,Tanta
+1174,3/22/2025,Paid Search,18-24,Alexandria
+1175,4/15/2024,Social,25-34,Giza
+1176,10/12/2025,Organic,25-34,Mansoura
+1177,2/4/2025,Email,35-44,Cairo
+1178,4/5/2024,Paid Search,55+,Mansoura
+1179,1/22/2025,Email,25-34,Giza
+1180,3/27/2025,Social,45-54,Tanta
+1181,2/19/2025,Referral,18-24,Aswan
+1182,5/18/2025,Organic,35-44,Aswan
+1183,3/29/2025,Social,18-24,Aswan
+1184,10/17/2024,Referral,55+,Alexandria
+1185,6/17/2025,Paid Search,45-54,Giza
+1186,7/11/2024,Referral,35-44,Giza
+1187,5/29/2024,Social,45-54,Mansoura
+1188,5/29/2025,Paid Search,35-44,Tanta
+1189,1/27/2025,Paid Search,55+,Cairo
+1190,11/11/2024,Social,35-44,Aswan
+1191,3/16/2024,Paid Search,55+,Tanta
+1192,8/21/2025,Social,35-44,Aswan
+1193,9/26/2024,Organic,18-24,Tanta
+1194,8/12/2024,Social,35-44,Cairo
+1195,6/13/2025,Paid Search,18-24,Cairo
+1196,4/22/2024,Referral,35-44,Cairo
+1197,9/7/2024,Referral,35-44,Cairo
+1198,8/20/2024,Referral,35-44,Alexandria
+1199,3/23/2024,Email,18-24,Tanta
+1200,5/4/2024,Paid Search,25-34,Tanta
+1201,6/23/2024,Email,35-44,Alexandria
+1202,3/9/2024,Paid Search,55+,Cairo
+1203,2/16/2024,Paid Search,25-34,Cairo
+1204,9/12/2024,Organic,25-34,Cairo
+1205,1/30/2024,Organic,35-44,Giza
+1206,10/7/2024,Email,35-44,Alexandria
+1207,8/24/2024,Social,25-34,Cairo
+1208,9/4/2024,Organic,25-34,Giza
+1209,1/2/2025,Paid Search,25-34,Cairo
+1210,5/9/2025,Referral,55+,Alexandria
+1211,1/25/2024,Organic,18-24,Giza
+1212,8/8/2025,Organic,25-34,Giza
+1213,5/4/2025,Paid Search,18-24,Giza
+1214,5/8/2025,Email,25-34,Aswan
+1215,11/9/2024,Social,45-54,Cairo
+1216,8/28/2025,Paid Search,25-34,Alexandria
+1217,1/9/2025,Paid Search,18-24,Mansoura
+1218,9/30/2025,Social,35-44,Alexandria
+1219,1/25/2024,Social,18-24,Aswan
+1220,11/29/2024,Paid Search,18-24,Giza
+1221,12/20/2024,Referral,45-54,Giza
+1222,4/25/2024,Paid Search,45-54,Cairo
+1223,2/17/2024,Organic,55+,Alexandria
+1224,4/8/2024,Referral,45-54,Cairo
+1225,4/3/2025,Organic,35-44,Cairo
+1226,6/6/2025,Social,18-24,Alexandria
+1227,8/19/2025,Organic,45-54,Alexandria
+1228,2/8/2025,Paid Search,45-54,Cairo
+1229,8/1/2024,Referral,45-54,Mansoura
+1230,5/17/2025,Organic,35-44,Alexandria
+1231,3/23/2025,Referral,25-34,Cairo
+1232,7/29/2025,Paid Search,45-54,Giza
+1233,9/14/2024,Paid Search,35-44,Mansoura
+1234,4/30/2024,Paid Search,55+,Alexandria
+1235,2/23/2024,Social,25-34,Giza
+1236,11/26/2024,Organic,25-34,Giza
+1237,8/28/2024,Referral,25-34,Alexandria
+1238,6/13/2025,Organic,45-54,Aswan
+1239,4/27/2025,Referral,25-34,Alexandria
+1240,7/5/2024,Paid Search,18-24,Cairo
+1241,10/17/2025,Referral,55+,Giza
+1242,9/18/2024,Email,18-24,Tanta
+1243,12/29/2024,Email,45-54,Cairo
+1244,5/5/2025,Email,25-34,Aswan
+1245,3/6/2025,Email,45-54,Aswan
+1246,8/26/2024,Social,35-44,Cairo
+1247,10/30/2024,Paid Search,55+,Aswan
+1248,10/24/2024,Paid Search,55+,Giza
+1249,3/16/2024,Referral,18-24,Tanta
+1250,11/28/2024,Social,18-24,Giza
+1251,10/3/2025,Email,25-34,Giza
+1252,4/18/2025,Organic,35-44,Alexandria
+1253,10/9/2024,Paid Search,45-54,Mansoura
+1254,8/13/2025,Paid Search,25-34,Cairo
+1255,3/12/2024,Social,35-44,Alexandria
+1256,9/19/2024,Organic,25-34,Cairo
+1257,7/28/2025,Paid Search,45-54,Giza
+1258,1/12/2024,Organic,55+,Giza
+1259,5/20/2024,Paid Search,25-34,Giza
+1260,7/8/2025,Social,35-44,Giza
+1261,1/17/2024,Paid Search,18-24,Cairo
+1262,3/3/2024,Email,35-44,Cairo
+1263,9/9/2024,Paid Search,35-44,Cairo
+1264,4/9/2025,Organic,18-24,Giza
+1265,1/10/2025,Paid Search,25-34,Aswan
+1266,6/3/2025,Paid Search,25-34,Cairo
+1267,3/30/2024,Organic,35-44,Aswan
+1268,9/21/2025,Organic,35-44,Mansoura
+1269,6/23/2024,Social,18-24,Alexandria
+1270,3/16/2024,Paid Search,45-54,Alexandria
+1271,9/4/2025,Social,35-44,Tanta
+1272,10/24/2025,Referral,25-34,Cairo
+1273,2/3/2025,Email,18-24,Alexandria
+1274,3/11/2024,Paid Search,45-54,Mansoura
+1275,6/28/2024,Organic,55+,Alexandria
+1276,5/3/2024,Paid Search,25-34,Tanta
+1277,1/15/2025,Paid Search,25-34,Cairo
+1278,10/19/2024,Referral,25-34,Mansoura
+1279,7/13/2024,Paid Search,35-44,Alexandria
+1280,8/15/2024,Organic,25-34,Giza
+1281,3/6/2025,Social,25-34,Giza
+1282,3/11/2025,Social,35-44,Alexandria
+1283,4/5/2025,Social,35-44,Tanta
+1284,9/9/2025,Paid Search,25-34,Giza
+1285,1/21/2024,Organic,25-34,Tanta
+1286,3/4/2024,Organic,35-44,Giza
+1287,6/13/2024,Paid Search,18-24,Cairo
+1288,1/27/2024,Organic,18-24,Cairo
+1289,11/6/2024,Paid Search,45-54,Cairo
+1290,10/11/2024,Paid Search,18-24,Giza
+1291,10/21/2025,Organic,35-44,Giza
+1292,10/7/2024,Paid Search,55+,Mansoura
+1293,6/12/2024,Social,25-34,Mansoura
+1294,8/11/2024,Social,25-34,Cairo
+1295,5/25/2024,Email,35-44,Cairo
+1296,1/30/2024,Paid Search,45-54,Cairo
+1297,2/14/2024,Paid Search,55+,Alexandria
+1298,4/15/2025,Paid Search,35-44,Cairo
+1299,2/3/2024,Social,18-24,Cairo
+1300,10/14/2025,Social,35-44,Aswan
+1301,3/2/2025,Paid Search,25-34,Tanta
+1302,8/8/2024,Referral,35-44,Cairo
+1303,6/17/2025,Paid Search,18-24,Giza
+1304,1/1/2025,Social,25-34,Giza
+1305,7/3/2025,Social,45-54,Mansoura
+1306,8/4/2025,Referral,25-34,Alexandria
+1307,4/25/2024,Social,25-34,Cairo
+1308,8/26/2024,Email,25-34,Mansoura
+1309,11/30/2024,Organic,45-54,Giza
+1310,3/16/2025,Email,45-54,Cairo
+1311,5/27/2024,Paid Search,25-34,Giza
+1312,1/9/2024,Referral,18-24,Giza
+1313,10/14/2024,Social,25-34,Giza
+1314,1/22/2025,Email,55+,Cairo
+1315,2/19/2024,Organic,35-44,Giza
+1316,5/31/2025,Social,35-44,Cairo
+1317,9/29/2025,Organic,35-44,Mansoura
+1318,8/9/2025,Social,25-34,Cairo
+1319,10/4/2024,Paid Search,45-54,Cairo
+1320,10/26/2024,Paid Search,35-44,Alexandria
+1321,8/11/2025,Paid Search,18-24,Mansoura
+1322,10/10/2025,Paid Search,18-24,Tanta
+1323,9/9/2025,Referral,35-44,Giza
+1324,8/29/2025,Paid Search,55+,Cairo
+1325,5/14/2024,Referral,25-34,Mansoura
+1326,8/2/2025,Organic,45-54,Mansoura
+1327,5/26/2024,Paid Search,45-54,Cairo
+1328,5/4/2025,Email,25-34,Aswan
+1329,4/22/2025,Social,18-24,Cairo
+1330,6/7/2024,Organic,18-24,Aswan
+1331,1/18/2025,Social,35-44,Tanta
+1332,6/11/2024,Social,25-34,Mansoura
+1333,3/16/2025,Paid Search,25-34,Aswan
+1334,7/7/2024,Referral,35-44,Mansoura
+1335,2/18/2025,Referral,35-44,Cairo
+1336,12/4/2024,Social,18-24,Giza
+1337,8/29/2025,Paid Search,25-34,Cairo
+1338,6/29/2024,Social,35-44,Giza
+1339,10/14/2024,Paid Search,35-44,Mansoura
+1340,7/5/2024,Paid Search,45-54,Giza
+1341,5/17/2024,Paid Search,25-34,Giza
+1342,5/9/2024,Organic,45-54,Alexandria
+1343,7/12/2024,Referral,35-44,Tanta
+1344,11/11/2024,Social,35-44,Cairo
+1345,5/23/2024,Email,35-44,Giza
+1346,1/16/2024,Organic,25-34,Cairo
+1347,10/28/2024,Organic,18-24,Mansoura
+1348,2/26/2025,Organic,35-44,Cairo
+1349,9/1/2024,Referral,35-44,Alexandria
+1350,4/16/2024,Paid Search,35-44,Cairo
+1351,3/28/2024,Referral,25-34,Cairo
+1352,5/8/2024,Social,55+,Aswan
+1353,12/6/2024,Organic,35-44,Cairo
+1354,1/4/2024,Social,18-24,Giza
+1355,11/22/2024,Organic,25-34,Cairo
+1356,2/13/2025,Referral,45-54,Giza
+1357,11/1/2024,Referral,45-54,Alexandria
+1358,8/29/2025,Organic,35-44,Giza
+1359,8/12/2024,Paid Search,45-54,Cairo
+1360,12/13/2024,Social,25-34,Giza
+1361,11/16/2024,Referral,25-34,Alexandria
+1362,7/12/2025,Paid Search,45-54,Mansoura
+1363,6/29/2024,Social,45-54,Alexandria
+1364,9/9/2025,Social,35-44,Alexandria
+1365,1/20/2025,Social,45-54,Cairo
+1366,9/9/2025,Paid Search,18-24,Cairo
+1367,4/17/2024,Social,45-54,Cairo
+1368,6/14/2025,Referral,25-34,Cairo
+1369,2/13/2025,Paid Search,25-34,Cairo
+1370,10/22/2024,Paid Search,25-34,Alexandria
+1371,6/19/2024,Referral,25-34,Alexandria
+1372,11/26/2024,Paid Search,25-34,Aswan
+1373,5/7/2025,Email,25-34,Cairo
+1374,7/13/2024,Organic,18-24,Alexandria
+1375,1/12/2024,Paid Search,25-34,Tanta
+1376,7/13/2024,Referral,35-44,Alexandria
+1377,5/4/2025,Organic,25-34,Cairo
+1378,6/30/2024,Organic,25-34,Cairo
+1379,10/17/2025,Organic,45-54,Cairo
+1380,11/11/2024,Social,45-54,Giza
+1381,1/30/2024,Paid Search,45-54,Mansoura
+1382,8/18/2025,Organic,25-34,Cairo
+1383,4/5/2024,Referral,45-54,Cairo
+1384,1/15/2025,Paid Search,25-34,Mansoura
+1385,3/19/2025,Social,18-24,Mansoura
+1386,10/24/2024,Organic,25-34,Giza
+1387,12/26/2024,Email,45-54,Mansoura
+1388,1/8/2025,Paid Search,25-34,Giza
+1389,7/7/2025,Referral,18-24,Cairo
+1390,10/29/2024,Organic,18-24,Giza
+1391,2/24/2025,Paid Search,45-54,Alexandria
+1392,9/2/2024,Paid Search,35-44,Aswan
+1393,8/24/2024,Paid Search,25-34,Cairo
+1394,6/17/2025,Organic,35-44,Alexandria
+1395,7/3/2024,Organic,35-44,Giza
+1396,4/12/2025,Email,35-44,Alexandria
+1397,12/28/2024,Organic,25-34,Cairo
+1398,10/9/2024,Paid Search,45-54,Giza
+1399,7/6/2025,Social,25-34,Tanta
+1400,12/1/2024,Social,35-44,Alexandria
+1401,6/10/2024,Paid Search,18-24,Giza
+1402,6/8/2024,Paid Search,25-34,Cairo
+1403,4/18/2025,Paid Search,25-34,Cairo
+1404,8/23/2025,Social,35-44,Giza
+1405,11/17/2024,Social,18-24,Tanta
+1406,1/12/2024,Organic,45-54,Aswan
+1407,2/27/2025,Email,25-34,Giza
+1408,3/13/2024,Email,35-44,Giza
+1409,8/10/2025,Social,45-54,Tanta
+1410,7/19/2024,Referral,35-44,Giza
+1411,6/5/2025,Paid Search,45-54,Alexandria
+1412,5/19/2025,Paid Search,35-44,Cairo
+1413,2/8/2024,Paid Search,25-34,Mansoura
+1414,2/29/2024,Paid Search,45-54,Alexandria
+1415,7/31/2025,Organic,25-34,Tanta
+1416,11/16/2024,Referral,35-44,Mansoura
+1417,3/10/2025,Paid Search,45-54,Cairo
+1418,9/27/2025,Paid Search,25-34,Mansoura
+1419,2/11/2025,Organic,25-34,Tanta
+1420,1/20/2025,Referral,25-34,Giza
+1421,7/22/2025,Paid Search,45-54,Cairo
+1422,3/18/2024,Organic,55+,Cairo
+1423,7/12/2024,Paid Search,35-44,Giza
+1424,10/11/2024,Paid Search,35-44,Giza
+1425,6/10/2025,Referral,55+,Alexandria
+1426,6/7/2025,Referral,18-24,Cairo
+1427,9/4/2025,Paid Search,25-34,Tanta
+1428,6/4/2024,Referral,35-44,Cairo
+1429,12/5/2024,Social,45-54,Cairo
+1430,5/4/2024,Referral,45-54,Giza
+1431,10/6/2024,Organic,25-34,Giza
+1432,9/13/2025,Organic,18-24,Cairo
+1433,10/19/2025,Organic,25-34,Cairo
+1434,5/7/2024,Social,25-34,Cairo
+1435,11/9/2024,Paid Search,25-34,Mansoura
+1436,11/27/2024,Paid Search,45-54,Mansoura
+1437,5/29/2024,Paid Search,18-24,Giza
+1438,3/29/2025,Social,45-54,Mansoura
+1439,2/5/2024,Paid Search,25-34,Mansoura
+1440,2/23/2025,Social,35-44,Cairo
+1441,1/22/2024,Referral,18-24,Aswan
+1442,7/24/2024,Paid Search,25-34,Tanta
+1443,9/30/2025,Social,18-24,Cairo
+1444,12/21/2024,Organic,55+,Cairo
+1445,3/15/2025,Referral,45-54,Cairo
+1446,4/5/2024,Paid Search,25-34,Cairo
+1447,6/12/2024,Social,25-34,Mansoura
+1448,5/27/2024,Email,55+,Giza
+1449,6/13/2025,Referral,25-34,Mansoura
+1450,10/20/2024,Social,25-34,Mansoura
+1451,7/13/2024,Organic,35-44,Alexandria
+1452,10/24/2025,Social,55+,Mansoura
+1453,4/24/2025,Referral,18-24,Cairo
+1454,5/2/2024,Social,25-34,Giza
+1455,2/3/2025,Paid Search,55+,Alexandria
+1456,3/27/2025,Referral,25-34,Cairo
+1457,10/22/2025,Social,18-24,Cairo
+1458,4/13/2024,Social,35-44,Tanta
+1459,4/6/2025,Paid Search,45-54,Mansoura
+1460,1/30/2025,Social,35-44,Cairo
+1461,12/2/2024,Organic,55+,Mansoura
+1462,8/21/2025,Social,35-44,Mansoura
+1463,5/21/2024,Paid Search,18-24,Giza
+1464,11/12/2024,Social,55+,Cairo
+1465,7/11/2025,Referral,25-34,Aswan
+1466,6/10/2025,Paid Search,25-34,Giza
+1467,7/9/2025,Referral,35-44,Cairo
+1468,2/4/2025,Organic,25-34,Giza
+1469,11/5/2024,Referral,18-24,Mansoura
+1470,5/9/2025,Email,18-24,Cairo
+1471,7/9/2025,Social,25-34,Cairo
+1472,9/1/2025,Social,45-54,Cairo
+1473,4/18/2024,Referral,35-44,Aswan
+1474,1/6/2025,Organic,55+,Cairo
+1475,9/7/2025,Organic,25-34,Alexandria
+1476,7/24/2024,Social,25-34,Aswan
+1477,2/12/2024,Email,25-34,Cairo
+1478,9/1/2024,Email,25-34,Aswan
+1479,10/13/2024,Email,25-34,Aswan
+1480,12/20/2024,Organic,45-54,Tanta
+1481,4/20/2025,Email,55+,Cairo
+1482,3/23/2024,Paid Search,55+,Alexandria
+1483,4/19/2024,Social,25-34,Mansoura
+1484,7/8/2024,Paid Search,45-54,Aswan
+1485,9/7/2024,Organic,25-34,Cairo
+1486,10/17/2024,Organic,18-24,Mansoura
+1487,10/6/2025,Organic,45-54,Giza
+1488,7/19/2024,Social,35-44,Cairo
+1489,11/21/2024,Organic,25-34,Giza
+1490,5/25/2025,Organic,25-34,Mansoura
+1491,2/12/2025,Paid Search,25-34,Giza
+1492,8/29/2025,Organic,35-44,Alexandria
+1493,5/22/2025,Paid Search,25-34,Aswan
+1494,8/23/2025,Paid Search,55+,Giza
+1495,3/12/2024,Social,18-24,Alexandria
+1496,9/3/2024,Social,25-34,Giza
+1497,10/2/2025,Social,35-44,Giza
+1498,8/30/2025,Organic,35-44,Mansoura
+1499,8/9/2025,Organic,25-34,Aswan
+1500,7/19/2025,Referral,35-44,Alexandria
+1501,12/9/2024,Organic,45-54,Mansoura
+1502,2/23/2024,Organic,55+,Cairo
+1503,6/11/2025,Paid Search,45-54,Cairo
+1504,9/2/2025,Organic,45-54,Alexandria
+1505,6/15/2025,Organic,35-44,Cairo
+1506,7/11/2025,Organic,45-54,Cairo
+1507,7/11/2024,Social,25-34,Alexandria
+1508,2/27/2024,Organic,25-34,Cairo
+1509,3/12/2025,Social,25-34,Cairo
+1510,4/20/2024,Email,25-34,Alexandria
+1511,5/8/2024,Email,25-34,Alexandria
+1512,11/21/2024,Social,55+,Aswan
+1513,1/8/2024,Referral,25-34,Alexandria
+1514,1/29/2024,Paid Search,18-24,Giza
+1515,4/21/2024,Paid Search,35-44,Aswan
+1516,5/10/2024,Paid Search,18-24,Mansoura
+1517,7/6/2024,Social,18-24,Cairo
+1518,4/19/2025,Referral,25-34,Cairo
+1519,12/29/2024,Paid Search,25-34,Alexandria
+1520,7/22/2024,Referral,25-34,Alexandria
+1521,7/30/2024,Paid Search,45-54,Mansoura
+1522,9/12/2025,Referral,35-44,Mansoura
+1523,10/2/2024,Organic,25-34,Alexandria
+1524,3/13/2024,Paid Search,25-34,Aswan
+1525,8/30/2024,Organic,25-34,Alexandria
+1526,4/11/2024,Paid Search,45-54,Cairo
+1527,6/19/2024,Paid Search,18-24,Tanta
+1528,10/14/2025,Paid Search,18-24,Cairo
+1529,7/6/2024,Email,45-54,Mansoura
+1530,3/16/2025,Organic,35-44,Aswan
+1531,3/26/2024,Paid Search,18-24,Mansoura
+1532,4/20/2025,Social,25-34,Alexandria
+1533,2/21/2024,Social,55+,Giza
+1534,4/20/2024,Paid Search,45-54,Giza
+1535,2/12/2024,Organic,35-44,Giza
+1536,7/29/2024,Paid Search,35-44,Alexandria
+1537,7/18/2024,Paid Search,35-44,Mansoura
+1538,9/18/2025,Social,55+,Alexandria
+1539,1/26/2024,Paid Search,55+,Cairo
+1540,10/25/2024,Organic,25-34,Giza
+1541,3/17/2024,Social,45-54,Mansoura
+1542,5/16/2024,Paid Search,25-34,Giza
+1543,1/20/2024,Social,25-34,Alexandria
+1544,3/15/2025,Paid Search,35-44,Mansoura
+1545,7/29/2024,Referral,25-34,Alexandria
+1546,7/4/2025,Organic,55+,Giza
+1547,3/10/2025,Email,18-24,Tanta
+1548,7/25/2024,Social,35-44,Cairo
+1549,3/14/2025,Paid Search,55+,Aswan
+1550,10/27/2025,Social,55+,Cairo
+1551,2/11/2024,Referral,25-34,Cairo
+1552,2/14/2025,Social,25-34,Tanta
+1553,6/6/2025,Email,35-44,Cairo
+1554,9/1/2025,Referral,25-34,Mansoura
+1555,3/2/2025,Paid Search,55+,Tanta
+1556,10/1/2024,Paid Search,55+,Tanta
+1557,3/23/2025,Social,25-34,Aswan
+1558,1/3/2025,Organic,18-24,Cairo
+1559,8/7/2024,Email,18-24,Mansoura
+1560,7/30/2025,Referral,55+,Cairo
+1561,8/19/2024,Organic,25-34,Giza
+1562,11/23/2024,Paid Search,25-34,Tanta
+1563,3/18/2025,Email,25-34,Giza
+1564,2/21/2024,Paid Search,35-44,Alexandria
+1565,1/10/2025,Email,18-24,Alexandria
+1566,9/19/2024,Organic,25-34,Alexandria
+1567,9/23/2024,Social,55+,Aswan
+1568,12/24/2024,Paid Search,55+,Cairo
+1569,11/12/2024,Social,45-54,Alexandria
+1570,11/19/2024,Organic,18-24,Tanta
+1571,10/27/2025,Social,25-34,Giza
+1572,10/13/2025,Paid Search,35-44,Cairo
+1573,7/16/2025,Social,25-34,Alexandria
+1574,9/20/2025,Referral,55+,Giza
+1575,2/24/2025,Paid Search,35-44,Cairo
+1576,2/15/2024,Paid Search,18-24,Tanta
+1577,8/22/2025,Paid Search,55+,Alexandria
+1578,9/25/2024,Social,55+,Aswan
+1579,8/23/2025,Social,18-24,Tanta
+1580,1/15/2025,Social,35-44,Mansoura
+1581,4/27/2024,Paid Search,25-34,Cairo
+1582,7/19/2025,Organic,25-34,Giza
+1583,4/25/2024,Social,25-34,Cairo
+1584,9/21/2025,Organic,35-44,Aswan
+1585,9/16/2024,Referral,55+,Cairo
+1586,3/15/2024,Paid Search,35-44,Cairo
+1587,4/24/2025,Social,18-24,Alexandria
+1588,10/31/2024,Organic,35-44,Cairo
+1589,1/7/2024,Organic,25-34,Cairo
+1590,12/31/2024,Social,45-54,Alexandria
+1591,9/25/2025,Social,25-34,Cairo
+1592,6/6/2025,Referral,25-34,Cairo
+1593,12/13/2024,Paid Search,25-34,Giza
+1594,3/13/2025,Paid Search,45-54,Mansoura
+1595,8/2/2024,Social,25-34,Alexandria
+1596,3/4/2025,Social,45-54,Giza
+1597,5/12/2025,Paid Search,25-34,Alexandria
+1598,6/23/2025,Paid Search,25-34,Giza
+1599,1/1/2025,Paid Search,25-34,Aswan
+1600,11/8/2024,Referral,55+,Cairo
+1601,6/21/2025,Paid Search,55+,Alexandria
+1602,2/23/2024,Organic,25-34,Tanta
+1603,6/24/2025,Paid Search,25-34,Tanta
+1604,4/11/2025,Organic,18-24,Cairo
+1605,6/12/2024,Paid Search,35-44,Cairo
+1606,11/29/2024,Organic,25-34,Mansoura
+1607,6/30/2025,Paid Search,55+,Cairo
+1608,12/13/2024,Email,55+,Tanta
+1609,9/29/2024,Paid Search,25-34,Mansoura
+1610,2/17/2025,Social,35-44,Mansoura
+1611,5/14/2025,Referral,45-54,Cairo
+1612,4/2/2024,Social,45-54,Mansoura
+1613,3/19/2024,Organic,18-24,Alexandria
+1614,9/13/2025,Organic,25-34,Tanta
+1615,8/4/2024,Organic,25-34,Cairo
+1616,12/23/2024,Social,25-34,Cairo
+1617,9/9/2025,Referral,25-34,Giza
+1618,5/21/2025,Social,18-24,Cairo
+1619,7/12/2025,Social,35-44,Alexandria
+1620,6/29/2024,Social,25-34,Aswan
+1621,7/29/2025,Organic,18-24,Giza
+1622,9/2/2024,Paid Search,25-34,Tanta
+1623,8/31/2024,Social,45-54,Cairo
+1624,5/20/2025,Referral,45-54,Cairo
+1625,2/25/2025,Paid Search,35-44,Cairo
+1626,11/15/2024,Social,25-34,Giza
+1627,3/27/2024,Paid Search,55+,Aswan
+1628,8/4/2024,Organic,25-34,Cairo
+1629,5/4/2025,Paid Search,25-34,Alexandria
+1630,6/2/2025,Organic,25-34,Giza
+1631,10/4/2024,Email,25-34,Aswan
+1632,6/17/2024,Organic,25-34,Cairo
+1633,11/25/2024,Social,55+,Cairo
+1634,10/11/2025,Email,35-44,Cairo
+1635,3/16/2025,Referral,25-34,Giza
+1636,1/25/2025,Paid Search,55+,Cairo
+1637,5/10/2025,Organic,18-24,Tanta
+1638,1/15/2025,Paid Search,25-34,Alexandria
+1639,11/1/2024,Referral,35-44,Alexandria
+1640,5/27/2025,Referral,35-44,Alexandria
+1641,7/6/2024,Organic,18-24,Cairo
+1642,5/30/2025,Email,25-34,Giza
+1643,10/5/2025,Organic,35-44,Aswan
+1644,3/2/2025,Social,35-44,Tanta
+1645,5/16/2025,Paid Search,35-44,Tanta
+1646,9/16/2024,Email,25-34,Tanta
+1647,5/27/2025,Paid Search,18-24,Cairo
+1648,3/11/2024,Email,25-34,Cairo
+1649,4/22/2025,Email,18-24,Cairo
+1650,6/26/2024,Social,55+,Giza
+1651,4/1/2025,Paid Search,35-44,Cairo
+1652,7/7/2024,Paid Search,25-34,Giza
+1653,10/17/2024,Paid Search,45-54,Alexandria
+1654,6/3/2025,Organic,35-44,Tanta
+1655,10/18/2024,Paid Search,25-34,Mansoura
+1656,9/26/2025,Referral,45-54,Aswan
+1657,10/9/2024,Social,45-54,Cairo
+1658,6/27/2025,Paid Search,35-44,Cairo
+1659,1/11/2025,Organic,18-24,Alexandria
+1660,10/19/2025,Organic,35-44,Cairo
+1661,6/4/2024,Social,45-54,Cairo
+1662,5/22/2025,Organic,18-24,Giza
+1663,2/16/2025,Referral,25-34,Cairo
+1664,6/11/2025,Organic,45-54,Alexandria
+1665,12/20/2024,Referral,18-24,Giza
+1666,7/12/2025,Email,45-54,Alexandria
+1667,7/5/2024,Paid Search,35-44,Alexandria
+1668,1/31/2024,Referral,25-34,Giza
+1669,9/16/2024,Paid Search,18-24,Cairo
+1670,2/24/2025,Email,45-54,Cairo
+1671,6/12/2025,Organic,25-34,Giza
+1672,7/4/2025,Referral,35-44,Mansoura
+1673,10/30/2024,Referral,35-44,Mansoura
+1674,2/8/2024,Email,35-44,Alexandria
+1675,5/3/2025,Email,55+,Cairo
+1676,10/5/2025,Paid Search,35-44,Alexandria
+1677,6/25/2025,Paid Search,25-34,Alexandria
+1678,10/31/2025,Organic,55+,Giza
+1679,10/4/2024,Paid Search,35-44,Alexandria
+1680,7/21/2024,Social,25-34,Giza
+1681,3/6/2024,Organic,18-24,Alexandria
+1682,4/17/2024,Referral,45-54,Mansoura
+1683,9/24/2024,Social,25-34,Cairo
+1684,8/9/2024,Email,35-44,Mansoura
+1685,6/13/2025,Paid Search,35-44,Cairo
+1686,3/30/2024,Referral,25-34,Cairo
+1687,9/11/2024,Referral,35-44,Aswan
+1688,3/30/2025,Organic,18-24,Aswan
+1689,9/9/2024,Social,25-34,Cairo
+1690,9/13/2024,Email,35-44,Giza
+1691,1/17/2025,Paid Search,25-34,Cairo
+1692,3/17/2025,Organic,45-54,Giza
+1693,8/21/2025,Organic,45-54,Tanta
+1694,3/30/2024,Paid Search,45-54,Aswan
+1695,1/24/2025,Organic,18-24,Alexandria
+1696,8/4/2025,Paid Search,25-34,Giza
+1697,2/13/2024,Paid Search,35-44,Alexandria
+1698,10/25/2025,Paid Search,55+,Giza
+1699,8/20/2025,Referral,45-54,Aswan
+1700,1/19/2024,Social,45-54,Tanta
+1701,4/10/2024,Referral,25-34,Alexandria
+1702,8/29/2025,Organic,25-34,Giza
+1703,12/22/2024,Paid Search,35-44,Cairo
+1704,6/25/2025,Organic,25-34,Cairo
+1705,2/2/2024,Organic,18-24,Tanta
+1706,8/16/2024,Paid Search,55+,Giza
+1707,6/7/2025,Social,25-34,Giza
+1708,9/21/2025,Paid Search,25-34,Giza
+1709,6/3/2024,Social,18-24,Tanta
+1710,2/26/2025,Social,55+,Cairo
+1711,9/2/2024,Paid Search,35-44,Tanta
+1712,2/8/2025,Paid Search,35-44,Tanta
+1713,6/24/2025,Email,55+,Aswan
+1714,6/9/2024,Organic,25-34,Giza
+1715,4/26/2024,Paid Search,35-44,Cairo
+1716,9/27/2024,Referral,18-24,Giza
+1717,5/1/2025,Paid Search,25-34,Giza
+1718,6/20/2024,Social,45-54,Cairo
+1719,9/30/2024,Referral,45-54,Alexandria
+1720,9/15/2024,Paid Search,25-34,Giza
+1721,5/14/2024,Paid Search,25-34,Tanta
+1722,2/25/2025,Paid Search,35-44,Cairo
+1723,2/24/2025,Paid Search,18-24,Alexandria
+1724,7/4/2024,Paid Search,25-34,Mansoura
+1725,12/29/2024,Social,25-34,Mansoura
+1726,8/29/2025,Paid Search,25-34,Tanta
+1727,1/12/2025,Organic,45-54,Mansoura
+1728,6/6/2025,Referral,25-34,Aswan
+1729,8/2/2025,Email,25-34,Giza
+1730,7/14/2024,Social,35-44,Alexandria
+1731,4/7/2024,Paid Search,45-54,Cairo
+1732,8/27/2025,Social,25-34,Cairo
+1733,1/22/2024,Organic,18-24,Cairo
+1734,3/25/2025,Organic,25-34,Cairo
+1735,6/20/2024,Paid Search,45-54,Cairo
+1736,1/17/2025,Referral,35-44,Cairo
+1737,5/13/2024,Organic,45-54,Cairo
+1738,3/1/2025,Paid Search,55+,Aswan
+1739,1/25/2024,Organic,45-54,Cairo
+1740,5/17/2025,Organic,35-44,Mansoura
+1741,7/3/2024,Email,35-44,Cairo
+1742,3/25/2024,Social,18-24,Aswan
+1743,7/20/2025,Email,55+,Tanta
+1744,5/23/2024,Paid Search,25-34,Alexandria
+1745,2/15/2025,Organic,25-34,Alexandria
+1746,8/11/2024,Organic,35-44,Cairo
+1747,8/7/2024,Paid Search,25-34,Aswan
+1748,6/27/2024,Paid Search,35-44,Tanta
+1749,9/22/2025,Email,35-44,Tanta
+1750,3/8/2025,Paid Search,25-34,Alexandria
+1751,9/21/2024,Organic,45-54,Giza
+1752,3/4/2025,Paid Search,25-34,Tanta
+1753,10/23/2025,Paid Search,25-34,Cairo
+1754,2/19/2025,Paid Search,35-44,Alexandria
+1755,3/28/2025,Referral,35-44,Cairo
+1756,7/15/2024,Email,45-54,Aswan
+1757,7/7/2025,Referral,25-34,Cairo
+1758,2/22/2024,Organic,35-44,Cairo
+1759,4/24/2025,Paid Search,25-34,Alexandria
+1760,3/18/2025,Social,55+,Mansoura
+1761,11/25/2024,Organic,25-34,Alexandria
+1762,9/7/2024,Email,35-44,Cairo
+1763,5/2/2024,Paid Search,18-24,Cairo
+1764,1/21/2025,Organic,25-34,Mansoura
+1765,12/4/2024,Paid Search,35-44,Aswan
+1766,12/13/2024,Organic,45-54,Tanta
+1767,1/29/2024,Social,35-44,Giza
+1768,2/4/2024,Organic,55+,Aswan
+1769,6/1/2025,Organic,35-44,Giza
+1770,1/30/2025,Organic,35-44,Alexandria
+1771,9/14/2025,Organic,18-24,Giza
+1772,10/20/2024,Email,45-54,Giza
+1773,8/11/2025,Referral,25-34,Mansoura
+1774,12/14/2024,Referral,45-54,Alexandria
+1775,5/26/2024,Email,55+,Giza
+1776,3/7/2024,Paid Search,55+,Cairo
+1777,6/3/2025,Social,35-44,Cairo
+1778,5/1/2024,Organic,35-44,Alexandria
+1779,12/5/2024,Paid Search,45-54,Cairo
+1780,6/23/2024,Email,18-24,Cairo
+1781,8/19/2025,Paid Search,35-44,Alexandria
+1782,3/26/2025,Referral,18-24,Mansoura
+1783,7/10/2025,Organic,35-44,Mansoura
+1784,5/15/2024,Social,25-34,Alexandria
+1785,1/16/2024,Social,25-34,Tanta
+1786,11/28/2024,Referral,25-34,Aswan
+1787,7/13/2024,Social,25-34,Tanta
+1788,5/10/2025,Social,35-44,Alexandria
+1789,1/9/2024,Paid Search,18-24,Giza
+1790,11/29/2024,Organic,35-44,Aswan
+1791,11/28/2024,Paid Search,25-34,Cairo
+1792,11/22/2024,Social,35-44,Cairo
+1793,1/15/2024,Organic,35-44,Giza
+1794,9/5/2025,Social,35-44,Cairo
+1795,8/13/2024,Paid Search,35-44,Aswan
+1796,2/28/2025,Paid Search,25-34,Alexandria
+1797,2/11/2025,Social,45-54,Alexandria
+1798,4/22/2024,Paid Search,25-34,Alexandria
+1799,3/3/2025,Paid Search,35-44,Giza
+1800,1/1/2024,Paid Search,35-44,Cairo
+1801,9/22/2024,Referral,18-24,Alexandria
+1802,5/5/2025,Social,35-44,Mansoura
+1803,7/26/2024,Organic,35-44,Giza
+1804,9/13/2025,Paid Search,25-34,Mansoura
+1805,1/3/2025,Organic,18-24,Cairo
+1806,11/1/2024,Email,18-24,Cairo
+1807,1/12/2024,Social,55+,Cairo
+1808,12/10/2024,Paid Search,35-44,Giza
+1809,4/9/2025,Paid Search,18-24,Tanta
+1810,10/27/2025,Paid Search,25-34,Tanta
+1811,5/8/2025,Social,35-44,Giza
+1812,1/2/2025,Email,45-54,Alexandria
+1813,2/23/2025,Paid Search,18-24,Mansoura
+1814,6/19/2024,Paid Search,25-34,Cairo
+1815,5/13/2024,Paid Search,45-54,Cairo
+1816,3/2/2025,Referral,18-24,Aswan
+1817,1/25/2024,Paid Search,25-34,Alexandria
+1818,6/13/2025,Email,55+,Aswan
+1819,7/8/2024,Social,35-44,Giza
+1820,5/20/2024,Organic,25-34,Mansoura
+1821,7/8/2025,Paid Search,18-24,Cairo
+1822,10/19/2025,Paid Search,18-24,Cairo
+1823,11/10/2024,Social,25-34,Alexandria
+1824,3/19/2025,Email,45-54,Giza
+1825,11/14/2024,Social,25-34,Cairo
+1826,3/16/2025,Organic,35-44,Cairo
+1827,4/1/2024,Paid Search,55+,Cairo
+1828,6/27/2024,Referral,25-34,Mansoura
+1829,2/25/2024,Email,25-34,Giza
+1830,6/3/2024,Paid Search,35-44,Cairo
+1831,4/20/2024,Referral,55+,Cairo
+1832,5/16/2024,Social,45-54,Cairo
+1833,8/19/2024,Social,18-24,Alexandria
+1834,4/12/2025,Email,35-44,Cairo
+1835,4/25/2025,Email,35-44,Mansoura
+1836,3/8/2024,Social,55+,Cairo
+1837,9/5/2024,Paid Search,18-24,Cairo
+1838,11/18/2024,Organic,35-44,Tanta
+1839,6/1/2025,Referral,45-54,Mansoura
+1840,3/7/2025,Paid Search,25-34,Cairo
+1841,5/1/2025,Organic,35-44,Tanta
+1842,8/28/2025,Organic,18-24,Giza
+1843,3/4/2025,Organic,25-34,Tanta
+1844,9/25/2024,Social,25-34,Alexandria
+1845,6/20/2025,Referral,55+,Mansoura
+1846,5/27/2024,Paid Search,25-34,Aswan
+1847,4/27/2024,Paid Search,25-34,Cairo
+1848,1/1/2025,Paid Search,35-44,Alexandria
+1849,3/6/2024,Referral,25-34,Giza
+1850,1/4/2025,Social,35-44,Cairo
+1851,6/23/2024,Paid Search,35-44,Cairo
+1852,8/10/2025,Email,45-54,Cairo
+1853,5/9/2025,Referral,35-44,Alexandria
+1854,4/23/2024,Email,35-44,Alexandria
+1855,4/20/2024,Referral,18-24,Alexandria
+1856,3/14/2025,Paid Search,55+,Cairo
+1857,5/26/2024,Email,18-24,Giza
+1858,2/4/2024,Organic,45-54,Aswan
+1859,11/4/2024,Email,25-34,Giza
+1860,6/21/2025,Social,55+,Alexandria
+1861,1/14/2024,Email,35-44,Mansoura
+1862,1/8/2025,Social,45-54,Mansoura
+1863,7/10/2025,Paid Search,25-34,Alexandria
+1864,3/3/2025,Social,25-34,Tanta
+1865,8/20/2024,Referral,35-44,Giza
+1866,7/16/2025,Referral,45-54,Tanta
+1867,10/24/2025,Paid Search,18-24,Cairo
+1868,3/15/2025,Paid Search,55+,Cairo
+1869,5/16/2025,Paid Search,45-54,Cairo
+1870,10/1/2024,Social,25-34,Mansoura
+1871,3/16/2024,Email,45-54,Giza
+1872,3/14/2025,Paid Search,35-44,Cairo
+1873,10/15/2024,Organic,25-34,Cairo
+1874,6/23/2025,Email,25-34,Aswan
+1875,9/9/2024,Social,35-44,Tanta
+1876,5/5/2024,Social,35-44,Alexandria
+1877,6/25/2024,Social,25-34,Alexandria
+1878,2/6/2024,Organic,35-44,Giza
+1879,2/13/2025,Paid Search,35-44,Giza
+1880,9/2/2025,Social,35-44,Aswan
+1881,9/1/2025,Social,18-24,Cairo
+1882,5/6/2024,Referral,45-54,Giza
+1883,4/27/2025,Social,25-34,Giza
+1884,6/16/2024,Email,25-34,Giza
+1885,8/14/2025,Paid Search,25-34,Giza
+1886,10/20/2024,Organic,35-44,Alexandria
+1887,9/29/2025,Paid Search,45-54,Cairo
+1888,12/8/2024,Paid Search,25-34,Alexandria
+1889,11/5/2024,Social,45-54,Cairo
+1890,10/23/2025,Referral,18-24,Cairo
+1891,6/11/2025,Paid Search,35-44,Cairo
+1892,6/23/2025,Organic,55+,Mansoura
+1893,2/22/2025,Email,45-54,Giza
+1894,3/19/2025,Paid Search,25-34,Alexandria
+1895,7/11/2025,Social,35-44,Mansoura
+1896,8/23/2024,Social,25-34,Alexandria
+1897,3/14/2025,Social,25-34,Giza
+1898,8/1/2024,Paid Search,45-54,Giza
+1899,3/25/2024,Organic,45-54,Giza
+1900,3/25/2024,Email,25-34,Alexandria
+1901,5/3/2025,Social,55+,Giza
+1902,3/5/2024,Paid Search,35-44,Tanta
+1903,10/7/2025,Email,25-34,Tanta
+1904,10/24/2025,Paid Search,35-44,Cairo
+1905,9/18/2025,Email,35-44,Cairo
+1906,3/4/2024,Paid Search,35-44,Alexandria
+1907,12/8/2024,Referral,35-44,Giza
+1908,12/17/2024,Organic,35-44,Cairo
+1909,6/6/2024,Organic,25-34,Tanta
+1910,8/11/2025,Paid Search,45-54,Cairo
+1911,5/5/2025,Paid Search,35-44,Aswan
+1912,10/19/2025,Referral,18-24,Mansoura
+1913,4/7/2025,Referral,45-54,Mansoura
+1914,8/12/2024,Organic,55+,Cairo
+1915,11/8/2024,Organic,55+,Cairo
+1916,9/6/2025,Social,25-34,Alexandria
+1917,4/10/2025,Referral,18-24,Cairo
+1918,3/28/2024,Social,35-44,Giza
+1919,10/29/2024,Organic,18-24,Giza
+1920,3/10/2025,Organic,55+,Cairo
+1921,5/14/2024,Social,25-34,Cairo
+1922,2/19/2024,Paid Search,25-34,Mansoura
+1923,3/7/2025,Social,25-34,Cairo
+1924,12/5/2024,Organic,25-34,Cairo
+1925,12/12/2024,Email,45-54,Alexandria
+1926,10/7/2025,Paid Search,25-34,Aswan
+1927,12/12/2024,Social,25-34,Giza
+1928,10/10/2025,Organic,25-34,Cairo
+1929,9/1/2024,Social,35-44,Alexandria
+1930,4/18/2024,Paid Search,18-24,Aswan
+1931,6/16/2025,Social,35-44,Mansoura
+1932,3/30/2024,Social,35-44,Alexandria
+1933,10/22/2024,Social,35-44,Giza
+1934,4/21/2024,Social,55+,Alexandria
+1935,8/11/2025,Social,55+,Cairo
+1936,6/25/2024,Email,55+,Alexandria
+1937,12/8/2024,Paid Search,25-34,Mansoura
+1938,10/21/2025,Email,18-24,Aswan
+1939,4/10/2024,Organic,25-34,Cairo
+1940,9/20/2025,Paid Search,45-54,Cairo
+1941,8/26/2025,Paid Search,55+,Alexandria
+1942,2/4/2025,Organic,45-54,Mansoura
+1943,1/28/2024,Email,18-24,Mansoura
+1944,6/20/2025,Social,55+,Cairo
+1945,2/27/2024,Email,25-34,Cairo
+1946,5/12/2025,Organic,18-24,Alexandria
+1947,10/23/2024,Organic,25-34,Giza
+1948,5/13/2024,Paid Search,18-24,Tanta
+1949,11/26/2024,Organic,35-44,Giza
+1950,9/5/2024,Organic,25-34,Mansoura
+1951,7/3/2025,Paid Search,35-44,Alexandria
+1952,3/15/2024,Paid Search,35-44,Mansoura
+1953,10/15/2025,Social,45-54,Giza
+1954,6/16/2024,Social,35-44,Tanta
+1955,5/17/2025,Referral,25-34,Cairo
+1956,12/20/2024,Referral,45-54,Alexandria
+1957,8/12/2024,Social,55+,Cairo
+1958,10/25/2025,Organic,18-24,Giza
+1959,6/14/2025,Social,35-44,Giza
+1960,5/25/2024,Email,25-34,Cairo
+1961,8/28/2024,Paid Search,18-24,Aswan
+1962,12/9/2024,Organic,35-44,Cairo
+1963,2/4/2024,Email,45-54,Mansoura
+1964,1/1/2024,Organic,25-34,Aswan
+1965,6/1/2024,Social,45-54,Cairo
+1966,3/4/2025,Social,45-54,Mansoura
+1967,5/22/2025,Paid Search,55+,Cairo
+1968,5/5/2024,Organic,25-34,Cairo
+1969,5/5/2025,Organic,55+,Giza
+1970,4/26/2025,Paid Search,25-34,Aswan
+1971,12/10/2024,Paid Search,35-44,Cairo
+1972,8/8/2024,Email,18-24,Alexandria
+1973,1/25/2024,Paid Search,18-24,Alexandria
+1974,6/11/2025,Organic,35-44,Tanta
+1975,6/30/2024,Paid Search,25-34,Cairo
+1976,5/13/2025,Referral,25-34,Mansoura
+1977,10/2/2025,Paid Search,25-34,Mansoura
+1978,2/11/2024,Organic,35-44,Alexandria
+1979,4/25/2025,Referral,18-24,Aswan
+1980,3/14/2025,Email,45-54,Tanta
+1981,2/5/2025,Paid Search,18-24,Cairo
+1982,6/29/2025,Email,25-34,Giza
+1983,12/10/2024,Organic,25-34,Giza
+1984,2/14/2024,Organic,35-44,Giza
+1985,10/7/2025,Paid Search,25-34,Giza
+1986,1/21/2024,Paid Search,25-34,Giza
+1987,9/25/2025,Social,55+,Giza
+1988,3/10/2024,Organic,35-44,Aswan
+1989,2/17/2024,Organic,18-24,Cairo
+1990,5/5/2025,Social,25-34,Aswan
+1991,7/4/2025,Email,45-54,Giza
+1992,10/13/2024,Paid Search,25-34,Alexandria
+1993,1/10/2024,Social,18-24,Tanta
+1994,6/25/2025,Paid Search,45-54,Giza
+1995,9/30/2024,Email,35-44,Giza
+1996,8/22/2025,Social,35-44,Giza
+1997,1/15/2025,Referral,18-24,Giza
+1998,11/24/2024,Paid Search,18-24,Aswan
+1999,4/23/2025,Paid Search,35-44,Tanta
+2000,1/15/2024,Paid Search,25-34,Cairo
+2001,5/30/2025,Paid Search,35-44,Cairo
+2002,7/9/2024,Paid Search,35-44,Giza
+2003,6/16/2024,Referral,25-34,Cairo
+2004,6/4/2025,Paid Search,55+,Alexandria
+2005,9/12/2025,Paid Search,45-54,Cairo
+2006,5/16/2024,Email,35-44,Alexandria
+2007,6/2/2024,Organic,18-24,Cairo
+2008,1/22/2025,Email,18-24,Giza
+2009,7/27/2024,Paid Search,35-44,Alexandria
+2010,9/28/2024,Organic,25-34,Giza
+2011,5/22/2024,Paid Search,55+,Aswan
+2012,9/2/2025,Paid Search,25-34,Tanta
+2013,3/9/2024,Referral,35-44,Giza
+2014,9/3/2024,Paid Search,25-34,Cairo
+2015,9/17/2024,Organic,35-44,Tanta
+2016,3/19/2024,Organic,18-24,Aswan
+2017,10/19/2025,Organic,25-34,Tanta
+2018,9/14/2025,Referral,25-34,Cairo
+2019,8/27/2025,Paid Search,45-54,Aswan
+2020,6/8/2025,Social,18-24,Cairo
+2021,9/12/2025,Referral,55+,Mansoura
+2022,11/25/2024,Social,45-54,Aswan
+2023,7/7/2024,Referral,25-34,Cairo
+2024,4/4/2024,Paid Search,45-54,Aswan
+2025,9/8/2025,Organic,18-24,Giza
+2026,1/8/2024,Paid Search,55+,Aswan
+2027,3/7/2024,Social,35-44,Cairo
+2028,5/10/2025,Referral,25-34,Aswan
+2029,7/9/2024,Paid Search,25-34,Cairo
+2030,12/31/2024,Social,18-24,Mansoura
+2031,6/4/2025,Paid Search,55+,Alexandria
+2032,4/26/2024,Social,18-24,Giza
+2033,9/23/2024,Organic,35-44,Cairo
+2034,9/2/2025,Referral,25-34,Mansoura
+2035,4/29/2025,Social,55+,Cairo
+2036,5/23/2025,Organic,25-34,Alexandria
+2037,10/24/2024,Paid Search,35-44,Cairo
+2038,6/12/2024,Paid Search,35-44,Aswan
+2039,1/10/2025,Paid Search,35-44,Cairo
+2040,10/14/2025,Paid Search,18-24,Cairo
+2041,9/24/2024,Email,25-34,Cairo
+2042,7/2/2025,Social,25-34,Giza
+2043,3/14/2024,Organic,35-44,Cairo
+2044,5/22/2025,Paid Search,25-34,Giza
+2045,3/13/2024,Referral,35-44,Tanta
+2046,11/3/2024,Social,25-34,Mansoura
+2047,7/17/2024,Paid Search,45-54,Alexandria
+2048,5/9/2024,Social,55+,Cairo
+2049,7/25/2025,Social,35-44,Mansoura
+2050,9/6/2025,Paid Search,25-34,Cairo
+2051,5/1/2025,Organic,25-34,Mansoura
+2052,5/30/2024,Organic,18-24,Cairo
+2053,10/30/2025,Paid Search,25-34,Giza
+2054,7/24/2024,Referral,35-44,Giza
+2055,6/27/2024,Email,35-44,Tanta
+2056,7/15/2024,Social,55+,Cairo
+2057,3/29/2024,Organic,25-34,Alexandria
+2058,3/9/2025,Organic,35-44,Cairo
+2059,7/1/2024,Social,35-44,Mansoura
+2060,7/27/2024,Social,35-44,Aswan
+2061,5/7/2025,Paid Search,25-34,Giza
+2062,5/9/2024,Organic,25-34,Giza
+2063,10/26/2025,Email,35-44,Aswan
+2064,1/13/2024,Organic,35-44,Alexandria
+2065,9/25/2025,Paid Search,55+,Giza
+2066,4/15/2024,Email,25-34,Alexandria
+2067,1/9/2025,Paid Search,18-24,Mansoura
+2068,8/4/2025,Paid Search,35-44,Cairo
+2069,4/8/2024,Paid Search,35-44,Tanta
+2070,8/16/2025,Organic,25-34,Giza
+2071,8/9/2025,Email,45-54,Cairo
+2072,7/10/2024,Organic,55+,Mansoura
+2073,11/20/2024,Paid Search,55+,Giza
+2074,4/11/2025,Referral,25-34,Cairo
+2075,1/1/2025,Referral,45-54,Alexandria
+2076,11/13/2024,Referral,35-44,Tanta
+2077,5/23/2024,Paid Search,25-34,Tanta
+2078,1/18/2025,Organic,35-44,Aswan
+2079,8/3/2024,Referral,45-54,Tanta
+2080,12/26/2024,Email,35-44,Cairo
+2081,11/19/2024,Paid Search,25-34,Giza
+2082,1/15/2024,Paid Search,35-44,Tanta
+2083,8/4/2024,Organic,35-44,Giza
+2084,5/6/2025,Referral,25-34,Alexandria
+2085,6/30/2025,Organic,55+,Alexandria
+2086,7/1/2024,Organic,35-44,Giza
+2087,9/26/2024,Paid Search,35-44,Aswan
+2088,4/11/2025,Social,18-24,Alexandria
+2089,9/3/2025,Email,35-44,Giza
+2090,6/2/2025,Organic,18-24,Aswan
+2091,6/25/2025,Email,18-24,Giza
+2092,4/11/2025,Referral,35-44,Cairo
+2093,10/31/2024,Paid Search,25-34,Alexandria
+2094,5/23/2024,Organic,35-44,Tanta
+2095,4/20/2024,Paid Search,18-24,Mansoura
+2096,8/19/2024,Email,25-34,Mansoura
+2097,8/6/2025,Social,25-34,Mansoura
+2098,8/14/2025,Social,55+,Cairo
+2099,5/14/2025,Email,35-44,Tanta
+2100,8/17/2025,Organic,35-44,Tanta
+2101,7/7/2025,Referral,25-34,Cairo
+2102,9/29/2024,Organic,18-24,Cairo
+2103,6/21/2024,Paid Search,55+,Aswan
+2104,1/7/2024,Social,25-34,Tanta
+2105,6/3/2024,Email,25-34,Tanta
+2106,6/5/2025,Paid Search,35-44,Tanta
+2107,6/29/2025,Email,18-24,Alexandria
+2108,7/1/2025,Referral,45-54,Alexandria
+2109,6/1/2025,Paid Search,35-44,Alexandria
+2110,8/2/2024,Referral,25-34,Cairo
+2111,5/13/2024,Paid Search,18-24,Mansoura
+2112,10/11/2024,Paid Search,25-34,Alexandria
+2113,5/5/2024,Paid Search,45-54,Alexandria
+2114,3/14/2025,Referral,35-44,Alexandria
+2115,5/31/2024,Social,25-34,Giza
+2116,11/26/2024,Paid Search,18-24,Cairo
+2117,6/21/2025,Organic,35-44,Cairo
+2118,1/17/2025,Social,35-44,Cairo
+2119,4/24/2024,Paid Search,25-34,Cairo
+2120,4/26/2025,Referral,25-34,Aswan
+2121,10/10/2024,Email,25-34,Cairo
+2122,3/15/2024,Organic,35-44,Cairo
+2123,6/14/2024,Referral,55+,Alexandria
+2124,7/7/2024,Organic,25-34,Alexandria
+2125,3/18/2024,Referral,35-44,Cairo
+2126,8/24/2025,Social,25-34,Mansoura
+2127,1/21/2024,Social,25-34,Mansoura
+2128,7/19/2025,Paid Search,25-34,Cairo
+2129,7/2/2024,Referral,45-54,Cairo
+2130,8/9/2024,Organic,35-44,Aswan
+2131,11/23/2024,Paid Search,35-44,Tanta
+2132,6/27/2024,Paid Search,25-34,Mansoura
+2133,4/21/2024,Social,25-34,Cairo
+2134,2/28/2024,Organic,18-24,Giza
+2135,11/22/2024,Social,35-44,Alexandria
+2136,9/12/2025,Referral,25-34,Cairo
+2137,10/30/2025,Paid Search,35-44,Giza
+2138,7/9/2024,Social,25-34,Alexandria
+2139,7/18/2024,Paid Search,25-34,Giza
+2140,11/7/2024,Email,25-34,Mansoura
+2141,2/4/2024,Email,25-34,Tanta
+2142,1/13/2025,Social,18-24,Giza
+2143,1/21/2025,Social,25-34,Tanta
+2144,8/24/2024,Paid Search,35-44,Cairo
+2145,9/7/2025,Organic,35-44,Tanta
+2146,6/2/2025,Email,25-34,Cairo
+2147,10/9/2024,Organic,25-34,Cairo
+2148,1/1/2024,Organic,25-34,Alexandria
+2149,4/8/2025,Organic,25-34,Giza
+2150,8/17/2024,Email,18-24,Aswan
+2151,6/20/2024,Organic,45-54,Giza
+2152,3/27/2024,Paid Search,25-34,Cairo
+2153,7/6/2025,Social,25-34,Alexandria
+2154,5/2/2024,Email,25-34,Giza
+2155,10/24/2024,Paid Search,18-24,Giza
+2156,7/28/2025,Paid Search,35-44,Mansoura
+2157,4/28/2025,Paid Search,18-24,Mansoura
+2158,6/13/2024,Organic,18-24,Tanta
+2159,1/17/2025,Organic,35-44,Aswan
+2160,7/27/2024,Email,25-34,Cairo
+2161,3/7/2025,Social,35-44,Mansoura
+2162,1/23/2025,Social,35-44,Giza
+2163,7/13/2025,Organic,25-34,Alexandria
+2164,8/11/2024,Email,35-44,Giza
+2165,1/3/2024,Organic,18-24,Aswan
+2166,1/6/2025,Referral,35-44,Mansoura
+2167,3/21/2025,Social,25-34,Aswan
+2168,9/2/2025,Paid Search,25-34,Tanta
+2169,4/25/2024,Social,35-44,Aswan
+2170,9/26/2024,Organic,45-54,Tanta
+2171,3/22/2025,Social,55+,Giza
+2172,1/2/2025,Paid Search,35-44,Cairo
+2173,9/9/2024,Paid Search,25-34,Giza
+2174,11/12/2024,Email,25-34,Cairo
+2175,2/18/2025,Paid Search,25-34,Alexandria
+2176,4/4/2024,Email,35-44,Alexandria
+2177,1/24/2024,Paid Search,25-34,Alexandria
+2178,9/19/2025,Social,55+,Aswan
+2179,10/24/2025,Social,25-34,Aswan
+2180,2/19/2024,Organic,25-34,Cairo
+2181,5/16/2025,Paid Search,25-34,Giza
+2182,5/12/2025,Paid Search,45-54,Giza
+2183,11/30/2024,Paid Search,35-44,Giza
+2184,3/19/2024,Paid Search,35-44,Mansoura
+2185,8/4/2025,Social,25-34,Alexandria
+2186,1/27/2024,Referral,45-54,Alexandria
+2187,9/27/2024,Referral,18-24,Tanta
+2188,7/15/2025,Email,45-54,Tanta
+2189,9/3/2024,Email,35-44,Cairo
+2190,8/13/2025,Social,25-34,Mansoura
+2191,1/21/2025,Paid Search,35-44,Giza
+2192,7/12/2025,Referral,35-44,Cairo
+2193,12/26/2024,Social,18-24,Cairo
+2194,5/2/2025,Social,45-54,Giza
+2195,12/17/2024,Paid Search,25-34,Giza
+2196,9/12/2024,Organic,25-34,Cairo
+2197,8/9/2024,Organic,18-24,Mansoura
+2198,1/1/2024,Referral,25-34,Mansoura
+2199,6/29/2025,Social,35-44,Cairo
+2200,3/21/2025,Organic,25-34,Cairo
+2201,3/19/2024,Referral,35-44,Tanta
+2202,8/23/2024,Paid Search,25-34,Cairo
+2203,11/29/2024,Organic,55+,Aswan
+2204,12/14/2024,Paid Search,35-44,Alexandria
+2205,4/7/2024,Social,45-54,Giza
+2206,3/22/2024,Referral,18-24,Cairo
+2207,5/16/2025,Paid Search,25-34,Cairo
+2208,4/21/2025,Email,25-34,Cairo
+2209,7/3/2025,Paid Search,35-44,Cairo
+2210,1/14/2024,Referral,45-54,Alexandria
+2211,1/26/2025,Email,18-24,Cairo
+2212,12/12/2024,Email,18-24,Alexandria
+2213,11/5/2024,Paid Search,45-54,Alexandria
+2214,1/20/2025,Referral,25-34,Cairo
+2215,7/27/2024,Social,35-44,Cairo
+2216,12/22/2024,Paid Search,35-44,Cairo
+2217,8/23/2025,Email,45-54,Cairo
+2218,7/21/2025,Paid Search,18-24,Mansoura
+2219,4/3/2024,Referral,18-24,Giza
+2220,4/2/2024,Paid Search,35-44,Mansoura
+2221,12/5/2024,Social,55+,Giza
+2222,8/19/2025,Social,25-34,Giza
+2223,3/20/2025,Paid Search,25-34,Alexandria
+2224,1/22/2024,Paid Search,35-44,Mansoura
+2225,10/17/2024,Paid Search,55+,Cairo
+2226,4/29/2025,Organic,45-54,Cairo
+2227,11/1/2024,Paid Search,55+,Alexandria
+2228,9/25/2025,Social,18-24,Giza
+2229,5/7/2024,Paid Search,18-24,Giza
+2230,9/16/2025,Paid Search,35-44,Alexandria
+2231,9/29/2024,Email,45-54,Giza
+2232,3/17/2025,Paid Search,25-34,Alexandria
+2233,5/17/2025,Referral,25-34,Alexandria
+2234,5/9/2024,Email,45-54,Mansoura
+2235,5/11/2024,Social,18-24,Mansoura
+2236,8/19/2025,Social,25-34,Alexandria
+2237,4/26/2025,Referral,35-44,Alexandria
+2238,1/24/2025,Paid Search,35-44,Tanta
+2239,8/15/2025,Paid Search,35-44,Giza
+2240,11/20/2024,Paid Search,25-34,Giza
+2241,3/9/2024,Email,35-44,Mansoura
+2242,10/21/2025,Paid Search,35-44,Alexandria
+2243,3/23/2025,Social,35-44,Cairo
+2244,6/11/2025,Referral,35-44,Tanta
+2245,9/8/2025,Email,25-34,Cairo
+2246,6/13/2024,Organic,18-24,Mansoura
+2247,5/2/2025,Paid Search,18-24,Mansoura
+2248,3/1/2025,Email,25-34,Aswan
+2249,9/21/2024,Social,35-44,Cairo
+2250,9/3/2025,Paid Search,45-54,Alexandria
+2251,12/7/2024,Paid Search,35-44,Giza
+2252,10/4/2024,Referral,45-54,Giza
+2253,3/14/2025,Social,25-34,Cairo
+2254,6/5/2024,Email,25-34,Alexandria
+2255,2/25/2025,Referral,25-34,Giza
+2256,9/7/2024,Social,25-34,Cairo
+2257,8/31/2025,Organic,18-24,Alexandria
+2258,6/13/2025,Organic,35-44,Mansoura
+2259,11/22/2024,Paid Search,55+,Mansoura
+2260,4/6/2024,Organic,25-34,Aswan
+2261,5/27/2025,Email,18-24,Giza
+2262,8/3/2024,Social,45-54,Aswan
+2263,5/11/2024,Referral,25-34,Tanta
+2264,9/16/2024,Organic,45-54,Cairo
+2265,5/4/2024,Social,35-44,Cairo
+2266,3/22/2024,Social,55+,Giza
+2267,10/9/2024,Social,25-34,Giza
+2268,2/28/2024,Social,35-44,Alexandria
+2269,6/27/2025,Paid Search,25-34,Alexandria
+2270,6/9/2024,Organic,35-44,Mansoura
+2271,10/10/2024,Paid Search,25-34,Alexandria
+2272,4/15/2024,Organic,25-34,Cairo
+2273,4/14/2024,Organic,35-44,Tanta
+2274,3/14/2025,Social,35-44,Giza
+2275,8/15/2024,Referral,45-54,Aswan
+2276,8/4/2025,Social,35-44,Cairo
+2277,11/13/2024,Email,35-44,Aswan
+2278,4/8/2025,Organic,18-24,Cairo
+2279,8/21/2025,Social,35-44,Cairo
+2280,4/16/2025,Paid Search,35-44,Cairo
+2281,2/25/2024,Paid Search,45-54,Mansoura
+2282,9/16/2025,Organic,55+,Tanta
+2283,1/13/2024,Organic,18-24,Giza
+2284,3/15/2025,Paid Search,45-54,Aswan
+2285,1/18/2024,Paid Search,18-24,Alexandria
+2286,4/22/2024,Paid Search,25-34,Alexandria
+2287,8/16/2024,Referral,35-44,Tanta
+2288,6/19/2024,Organic,18-24,Cairo
+2289,10/21/2024,Organic,45-54,Giza
+2290,7/7/2024,Paid Search,18-24,Aswan
+2291,3/1/2025,Social,25-34,Aswan
+2292,3/19/2024,Paid Search,35-44,Aswan
+2293,10/19/2025,Paid Search,35-44,Aswan
+2294,6/30/2024,Organic,55+,Cairo
+2295,5/13/2025,Paid Search,35-44,Tanta
+2296,3/11/2024,Paid Search,35-44,Giza
+2297,9/4/2024,Paid Search,25-34,Aswan
+2298,5/25/2024,Paid Search,18-24,Giza
+2299,9/9/2025,Paid Search,18-24,Alexandria
+2300,10/22/2024,Organic,35-44,Alexandria
+2301,8/4/2025,Email,35-44,Giza
+2302,4/14/2025,Social,25-34,Cairo
+2303,5/20/2025,Organic,35-44,Tanta
+2304,7/11/2024,Paid Search,35-44,Tanta
+2305,3/8/2024,Referral,18-24,Cairo
+2306,5/8/2025,Organic,25-34,Mansoura
+2307,2/21/2024,Paid Search,45-54,Alexandria
+2308,12/28/2024,Social,35-44,Giza
+2309,4/18/2025,Paid Search,45-54,Cairo
+2310,6/4/2025,Organic,18-24,Tanta
+2311,3/6/2025,Organic,55+,Mansoura
+2312,10/24/2024,Referral,25-34,Alexandria
+2313,3/10/2025,Organic,18-24,Alexandria
+2314,7/16/2024,Social,55+,Cairo
+2315,5/7/2024,Referral,25-34,Giza
+2316,6/15/2025,Paid Search,35-44,Cairo
+2317,2/14/2025,Paid Search,25-34,Cairo
+2318,3/5/2024,Organic,35-44,Alexandria
+2319,8/28/2024,Organic,55+,Aswan
+2320,1/3/2025,Organic,25-34,Giza
+2321,6/19/2025,Referral,35-44,Cairo
+2322,1/18/2025,Social,25-34,Alexandria
+2323,3/6/2025,Social,35-44,Tanta
+2324,3/23/2024,Paid Search,25-34,Mansoura
+2325,9/2/2025,Email,25-34,Tanta
+2326,7/27/2025,Referral,25-34,Alexandria
+2327,10/12/2024,Email,25-34,Mansoura
+2328,6/17/2025,Paid Search,55+,Cairo
+2329,4/3/2025,Social,25-34,Giza
+2330,7/30/2024,Paid Search,25-34,Giza
+2331,5/5/2024,Paid Search,25-34,Alexandria
+2332,2/16/2025,Paid Search,25-34,Aswan
+2333,5/13/2025,Social,45-54,Tanta
+2334,2/28/2025,Social,55+,Cairo
+2335,7/7/2025,Paid Search,25-34,Cairo
+2336,9/1/2025,Organic,45-54,Giza
+2337,6/26/2025,Organic,35-44,Cairo
+2338,6/6/2024,Organic,25-34,Alexandria
+2339,4/21/2024,Paid Search,35-44,Aswan
+2340,2/5/2025,Organic,35-44,Aswan
+2341,5/1/2024,Email,35-44,Alexandria
+2342,9/29/2024,Paid Search,45-54,Tanta
+2343,10/20/2024,Paid Search,25-34,Alexandria
+2344,2/1/2025,Organic,55+,Cairo
+2345,4/15/2025,Referral,45-54,Alexandria
+2346,7/25/2024,Social,35-44,Alexandria
+2347,4/19/2024,Social,35-44,Mansoura
+2348,3/15/2025,Organic,25-34,Cairo
+2349,10/4/2024,Social,55+,Giza
+2350,7/21/2025,Paid Search,35-44,Giza
+2351,7/22/2025,Social,18-24,Aswan
+2352,4/26/2025,Referral,25-34,Giza
+2353,4/23/2024,Social,35-44,Mansoura
+2354,4/21/2025,Referral,18-24,Mansoura
+2355,11/16/2024,Social,18-24,Cairo
+2356,6/27/2024,Paid Search,25-34,Alexandria
+2357,8/6/2024,Referral,25-34,Tanta
+2358,6/11/2025,Paid Search,25-34,Giza
+2359,5/6/2025,Organic,25-34,Aswan
+2360,3/1/2024,Paid Search,25-34,Cairo
+2361,2/23/2024,Paid Search,35-44,Cairo
+2362,6/21/2025,Organic,35-44,Tanta
+2363,3/5/2024,Paid Search,25-34,Tanta
+2364,9/3/2025,Organic,25-34,Aswan
+2365,8/8/2025,Social,35-44,Alexandria
+2366,6/19/2024,Paid Search,18-24,Aswan
+2367,9/29/2024,Paid Search,18-24,Tanta
+2368,6/18/2025,Social,18-24,Tanta
+2369,1/25/2025,Organic,45-54,Alexandria
+2370,11/22/2024,Social,45-54,Giza
+2371,4/17/2024,Social,45-54,Aswan
+2372,6/10/2024,Email,35-44,Giza
+2373,3/27/2025,Social,35-44,Alexandria
+2374,7/24/2024,Organic,35-44,Giza
+2375,8/12/2025,Social,35-44,Alexandria
+2376,1/16/2024,Paid Search,18-24,Giza
+2377,11/22/2024,Paid Search,35-44,Cairo
+2378,8/30/2025,Email,45-54,Tanta
+2379,10/20/2025,Organic,35-44,Giza
+2380,1/2/2024,Email,25-34,Alexandria
+2381,1/10/2024,Email,25-34,Cairo
+2382,3/9/2025,Email,35-44,Cairo
+2383,5/4/2024,Referral,35-44,Cairo
+2384,3/21/2024,Organic,45-54,Mansoura
+2385,4/29/2025,Paid Search,25-34,Cairo
+2386,10/13/2025,Social,45-54,Aswan
+2387,5/29/2024,Organic,35-44,Cairo
+2388,12/5/2024,Social,45-54,Cairo
+2389,5/8/2024,Social,35-44,Cairo
+2390,3/13/2025,Social,35-44,Cairo
+2391,5/15/2025,Organic,35-44,Mansoura
+2392,2/27/2024,Paid Search,45-54,Tanta
+2393,7/16/2024,Organic,55+,Alexandria
+2394,7/29/2024,Paid Search,18-24,Cairo
+2395,2/14/2024,Referral,18-24,Cairo
+2396,4/6/2024,Organic,55+,Giza
+2397,10/5/2024,Paid Search,35-44,Aswan
+2398,6/18/2025,Paid Search,35-44,Cairo
+2399,2/13/2025,Social,35-44,Mansoura
+2400,4/5/2025,Social,18-24,Giza
+2401,1/25/2025,Organic,45-54,Cairo
+2402,2/13/2024,Paid Search,45-54,Giza
+2403,1/27/2024,Organic,25-34,Cairo
+2404,4/6/2024,Paid Search,25-34,Mansoura
+2405,7/1/2025,Social,45-54,Cairo
+2406,9/12/2025,Social,18-24,Mansoura
+2407,7/20/2025,Organic,45-54,Cairo
+2408,8/6/2024,Paid Search,25-34,Aswan
+2409,7/3/2024,Referral,35-44,Cairo
+2410,3/9/2024,Organic,55+,Tanta
+2411,5/9/2024,Social,35-44,Tanta
+2412,7/20/2025,Paid Search,25-34,Aswan
+2413,8/31/2025,Organic,35-44,Giza
+2414,8/21/2025,Paid Search,25-34,Mansoura
+2415,9/22/2025,Organic,25-34,Giza
+2416,11/29/2024,Referral,55+,Cairo
+2417,6/2/2024,Organic,45-54,Giza
+2418,6/30/2025,Paid Search,35-44,Cairo
+2419,3/19/2024,Paid Search,25-34,Aswan
+2420,8/1/2025,Organic,18-24,Cairo
+2421,2/16/2025,Paid Search,18-24,Alexandria
+2422,6/29/2025,Paid Search,35-44,Alexandria
+2423,8/31/2025,Email,45-54,Alexandria
+2424,6/17/2024,Organic,35-44,Alexandria
+2425,10/24/2025,Paid Search,45-54,Cairo
+2426,8/5/2025,Referral,18-24,Alexandria
+2427,5/29/2025,Paid Search,25-34,Cairo
+2428,11/9/2024,Referral,25-34,Aswan
+2429,2/1/2024,Paid Search,25-34,Mansoura
+2430,10/13/2024,Referral,18-24,Aswan
+2431,8/16/2025,Social,55+,Cairo
+2432,2/12/2024,Email,25-34,Cairo
+2433,9/8/2025,Referral,55+,Cairo
+2434,1/1/2024,Paid Search,25-34,Cairo
+2435,7/26/2025,Referral,55+,Cairo
+2436,9/26/2024,Organic,35-44,Alexandria
+2437,6/28/2024,Organic,55+,Cairo
+2438,6/1/2025,Organic,18-24,Alexandria
+2439,4/12/2024,Social,45-54,Tanta
+2440,1/10/2024,Paid Search,55+,Mansoura
+2441,8/5/2025,Social,18-24,Giza
+2442,3/30/2024,Social,18-24,Giza
+2443,8/13/2024,Email,25-34,Giza
+2444,10/31/2025,Email,55+,Cairo
+2445,5/5/2024,Organic,35-44,Alexandria
+2446,7/27/2024,Paid Search,35-44,Giza
+2447,4/6/2024,Paid Search,18-24,Tanta
+2448,3/14/2024,Paid Search,18-24,Mansoura
+2449,9/18/2025,Paid Search,45-54,Alexandria
+2450,7/9/2024,Organic,18-24,Giza
+2451,2/25/2024,Paid Search,35-44,Cairo
+2452,7/6/2025,Referral,55+,Mansoura
+2453,2/1/2024,Social,25-34,Giza
+2454,6/10/2025,Organic,35-44,Cairo
+2455,7/27/2025,Social,18-24,Cairo
+2456,10/28/2025,Paid Search,35-44,Cairo
+2457,10/10/2024,Organic,25-34,Mansoura
+2458,5/8/2025,Social,35-44,Cairo
+2459,7/5/2024,Organic,25-34,Alexandria
+2460,5/12/2025,Organic,25-34,Giza
+2461,3/17/2025,Referral,35-44,Alexandria
+2462,5/9/2024,Referral,25-34,Tanta
+2463,9/30/2025,Social,45-54,Tanta
+2464,10/18/2024,Social,25-34,Giza
+2465,4/23/2024,Social,35-44,Cairo
+2466,7/17/2024,Paid Search,25-34,Giza
+2467,1/13/2024,Organic,35-44,Alexandria
+2468,9/27/2024,Paid Search,18-24,Alexandria
+2469,8/23/2025,Organic,25-34,Alexandria
+2470,8/2/2024,Social,25-34,Cairo
+2471,3/19/2025,Paid Search,45-54,Alexandria
+2472,5/26/2025,Referral,25-34,Cairo
+2473,3/22/2025,Referral,45-54,Mansoura
+2474,3/14/2024,Social,45-54,Giza
+2475,6/20/2025,Organic,25-34,Mansoura
+2476,4/10/2024,Referral,35-44,Cairo
+2477,6/24/2024,Paid Search,18-24,Giza
+2478,3/2/2025,Email,25-34,Mansoura
+2479,4/26/2024,Paid Search,35-44,Cairo
+2480,6/14/2024,Email,35-44,Mansoura
+2481,2/10/2024,Paid Search,35-44,Alexandria
+2482,3/4/2025,Referral,25-34,Alexandria
+2483,12/9/2024,Referral,25-34,Giza
+2484,2/27/2025,Paid Search,18-24,Giza
+2485,12/31/2024,Organic,35-44,Alexandria
+2486,4/29/2024,Referral,35-44,Giza
+2487,8/31/2025,Organic,35-44,Mansoura
+2488,10/18/2025,Referral,25-34,Giza
+2489,8/16/2024,Social,25-34,Cairo
+2490,5/9/2024,Organic,25-34,Cairo
+2491,12/17/2024,Paid Search,18-24,Cairo
+2492,11/13/2024,Paid Search,25-34,Giza
+2493,10/10/2025,Email,45-54,Mansoura
+2494,12/2/2024,Organic,45-54,Mansoura
+2495,9/29/2024,Organic,35-44,Cairo
+2496,4/26/2024,Organic,25-34,Aswan
+2497,1/2/2025,Social,18-24,Alexandria
+2498,4/3/2024,Referral,45-54,Aswan
+2499,6/16/2024,Referral,18-24,Mansoura
+2500,12/6/2024,Organic,55+,Mansoura
+2501,10/22/2025,Email,35-44,Cairo
+2502,5/31/2024,Email,25-34,Cairo
+2503,8/8/2025,Social,55+,Cairo
+2504,9/30/2024,Referral,18-24,Mansoura
+2505,7/7/2025,Paid Search,35-44,Giza
+2506,5/10/2025,Paid Search,35-44,Mansoura
+2507,4/10/2024,Email,25-34,Giza
+2508,7/10/2025,Organic,25-34,Tanta
+2509,3/22/2024,Email,35-44,Cairo
+2510,6/12/2025,Referral,35-44,Cairo
+2511,3/13/2024,Paid Search,18-24,Giza
+2512,1/14/2024,Referral,55+,Giza
+2513,3/8/2025,Organic,25-34,Giza
+2514,6/5/2024,Organic,25-34,Mansoura
+2515,5/11/2024,Social,25-34,Cairo
+2516,12/3/2024,Referral,18-24,Giza
+2517,2/7/2025,Paid Search,18-24,Tanta
+2518,1/10/2025,Organic,55+,Cairo
+2519,7/12/2025,Social,25-34,Aswan
+2520,4/16/2024,Social,18-24,Aswan
+2521,9/11/2025,Social,18-24,Cairo
+2522,9/21/2024,Paid Search,35-44,Cairo
+2523,7/23/2024,Paid Search,45-54,Giza
+2524,3/19/2024,Organic,25-34,Mansoura
+2525,6/3/2024,Email,18-24,Alexandria
+2526,9/3/2024,Paid Search,25-34,Alexandria
+2527,6/14/2025,Paid Search,18-24,Mansoura
+2528,6/21/2025,Referral,18-24,Cairo
+2529,6/2/2024,Paid Search,25-34,Tanta
+2530,6/2/2024,Referral,25-34,Mansoura
+2531,4/1/2024,Social,35-44,Alexandria
+2532,3/8/2025,Email,25-34,Tanta
+2533,12/3/2024,Paid Search,55+,Mansoura
+2534,4/24/2025,Paid Search,55+,Cairo
+2535,5/10/2024,Social,35-44,Giza
+2536,3/25/2025,Email,25-34,Giza
+2537,9/29/2024,Email,25-34,Cairo
+2538,8/10/2025,Paid Search,25-34,Aswan
+2539,6/25/2024,Email,35-44,Cairo
+2540,10/4/2025,Email,25-34,Mansoura
+2541,2/18/2024,Social,45-54,Alexandria
+2542,7/20/2025,Email,55+,Cairo
+2543,10/27/2025,Email,25-34,Aswan
+2544,12/20/2024,Social,35-44,Tanta
+2545,11/3/2024,Paid Search,18-24,Alexandria
+2546,9/21/2025,Organic,25-34,Cairo
+2547,2/15/2024,Paid Search,25-34,Cairo
+2548,10/28/2024,Organic,25-34,Giza
+2549,2/11/2025,Organic,45-54,Cairo
+2550,7/7/2024,Paid Search,25-34,Alexandria
+2551,5/8/2024,Organic,25-34,Aswan
+2552,7/14/2025,Paid Search,35-44,Alexandria
+2553,6/20/2025,Email,35-44,Tanta
+2554,9/22/2024,Referral,25-34,Alexandria
+2555,4/27/2024,Paid Search,45-54,Giza
+2556,4/8/2025,Referral,35-44,Tanta
+2557,5/23/2024,Organic,25-34,Giza
+2558,3/17/2025,Paid Search,18-24,Tanta
+2559,7/18/2024,Paid Search,25-34,Cairo
+2560,6/5/2024,Organic,45-54,Cairo
+2561,5/1/2025,Email,35-44,Tanta
+2562,5/13/2024,Social,45-54,Alexandria
+2563,5/27/2024,Paid Search,35-44,Tanta
+2564,12/1/2024,Paid Search,18-24,Aswan
+2565,3/11/2024,Organic,18-24,Cairo
+2566,8/20/2024,Paid Search,25-34,Alexandria
+2567,11/29/2024,Paid Search,35-44,Giza
+2568,10/27/2025,Paid Search,45-54,Alexandria
+2569,3/30/2024,Email,25-34,Mansoura
+2570,11/29/2024,Referral,35-44,Cairo
+2571,7/17/2024,Organic,25-34,Alexandria
+2572,6/9/2024,Referral,25-34,Mansoura
+2573,6/21/2025,Organic,25-34,Cairo
+2574,4/30/2024,Organic,18-24,Tanta
+2575,10/27/2024,Paid Search,25-34,Alexandria
+2576,7/28/2025,Social,18-24,Aswan
+2577,3/11/2025,Referral,25-34,Giza
+2578,3/8/2024,Social,18-24,Cairo
+2579,4/3/2025,Organic,35-44,Alexandria
+2580,5/28/2025,Social,25-34,Cairo
+2581,2/1/2025,Paid Search,55+,Aswan
+2582,9/11/2025,Referral,25-34,Cairo
+2583,10/12/2024,Organic,25-34,Mansoura
+2584,7/14/2025,Organic,25-34,Alexandria
+2585,5/19/2024,Social,18-24,Giza
+2586,7/9/2025,Social,45-54,Cairo
+2587,8/12/2025,Paid Search,18-24,Alexandria
+2588,9/1/2025,Social,55+,Alexandria
+2589,10/8/2024,Paid Search,45-54,Cairo
+2590,10/22/2025,Social,35-44,Aswan
+2591,7/31/2025,Email,35-44,Giza
+2592,4/1/2025,Email,35-44,Giza
+2593,3/27/2024,Social,25-34,Alexandria
+2594,3/19/2024,Organic,35-44,Cairo
+2595,7/23/2024,Paid Search,18-24,Aswan
+2596,12/2/2024,Email,18-24,Giza
+2597,9/10/2024,Paid Search,25-34,Cairo
+2598,10/30/2024,Organic,35-44,Giza
+2599,1/14/2025,Paid Search,45-54,Alexandria
+2600,5/9/2024,Paid Search,18-24,Alexandria
+2601,8/18/2025,Social,45-54,Mansoura
+2602,10/2/2024,Paid Search,25-34,Cairo
+2603,7/11/2025,Email,25-34,Cairo
+2604,7/1/2024,Paid Search,25-34,Tanta
+2605,9/24/2024,Paid Search,25-34,Cairo
+2606,11/17/2024,Organic,25-34,Tanta
+2607,5/26/2025,Paid Search,35-44,Cairo
+2608,9/3/2025,Paid Search,45-54,Tanta
+2609,3/18/2024,Social,25-34,Giza
+2610,12/4/2024,Paid Search,35-44,Alexandria
+2611,7/9/2025,Email,45-54,Cairo
+2612,5/23/2025,Paid Search,35-44,Cairo
+2613,8/25/2024,Paid Search,35-44,Cairo
+2614,5/13/2024,Email,25-34,Cairo
+2615,7/10/2024,Paid Search,45-54,Giza
+2616,12/21/2024,Paid Search,35-44,Alexandria
+2617,10/4/2024,Organic,25-34,Alexandria
+2618,1/18/2024,Paid Search,25-34,Mansoura
+2619,6/7/2025,Email,45-54,Alexandria
+2620,6/28/2024,Paid Search,18-24,Alexandria
+2621,5/2/2024,Email,55+,Giza
+2622,9/2/2024,Referral,18-24,Giza
+2623,1/7/2025,Organic,45-54,Giza
+2624,2/20/2024,Referral,25-34,Tanta
+2625,3/11/2024,Organic,35-44,Cairo
+2626,4/24/2025,Referral,45-54,Cairo
+2627,7/13/2025,Paid Search,25-34,Alexandria
+2628,1/19/2024,Social,35-44,Cairo
+2629,3/24/2024,Organic,18-24,Tanta
+2630,6/3/2024,Organic,18-24,Tanta
+2631,7/18/2025,Social,25-34,Cairo
+2632,9/10/2025,Social,35-44,Cairo
+2633,12/22/2024,Paid Search,18-24,Giza
+2634,10/8/2025,Paid Search,18-24,Alexandria
+2635,3/18/2025,Social,25-34,Cairo
+2636,3/9/2024,Social,35-44,Mansoura
+2637,6/6/2025,Referral,35-44,Alexandria
+2638,5/22/2024,Email,25-34,Giza
+2639,7/10/2024,Referral,18-24,Cairo
+2640,1/21/2025,Social,55+,Mansoura
+2641,1/12/2025,Paid Search,25-34,Cairo
+2642,8/3/2025,Paid Search,45-54,Tanta
+2643,6/18/2025,Email,45-54,Giza
+2644,10/19/2024,Social,45-54,Alexandria
+2645,1/9/2024,Paid Search,25-34,Tanta
+2646,9/27/2024,Organic,45-54,Tanta
+2647,1/21/2025,Referral,45-54,Giza
+2648,4/2/2024,Organic,35-44,Cairo
+2649,6/12/2025,Organic,25-34,Mansoura
+2650,6/2/2024,Organic,25-34,Giza
+2651,2/8/2025,Paid Search,18-24,Cairo
+2652,5/28/2024,Organic,35-44,Aswan
+2653,9/23/2024,Organic,35-44,Cairo
+2654,2/25/2025,Paid Search,25-34,Cairo
+2655,9/9/2025,Email,35-44,Cairo
+2656,4/16/2025,Organic,25-34,Alexandria
+2657,6/30/2025,Email,35-44,Alexandria
+2658,9/22/2025,Email,55+,Giza
+2659,6/9/2025,Paid Search,25-34,Giza
+2660,5/17/2025,Social,25-34,Giza
+2661,1/14/2024,Organic,18-24,Mansoura
+2662,10/13/2025,Referral,35-44,Cairo
+2663,12/29/2024,Paid Search,35-44,Aswan
+2664,4/28/2024,Social,55+,Cairo
+2665,8/25/2024,Social,25-34,Aswan
+2666,6/29/2025,Paid Search,55+,Cairo
+2667,6/17/2024,Paid Search,18-24,Mansoura
+2668,6/5/2025,Social,35-44,Cairo
+2669,9/25/2025,Social,18-24,Cairo
+2670,10/18/2025,Paid Search,45-54,Tanta
+2671,5/30/2025,Social,35-44,Tanta
+2672,1/31/2025,Organic,35-44,Giza
+2673,4/15/2024,Social,45-54,Mansoura
+2674,3/25/2024,Paid Search,25-34,Alexandria
+2675,8/1/2024,Referral,18-24,Tanta
+2676,4/30/2024,Paid Search,45-54,Giza
+2677,5/11/2024,Organic,25-34,Alexandria
+2678,7/15/2024,Paid Search,18-24,Giza
+2679,1/19/2024,Paid Search,25-34,Giza
+2680,10/3/2025,Organic,35-44,Tanta
+2681,1/12/2024,Paid Search,18-24,Cairo
+2682,3/21/2024,Email,25-34,Cairo
+2683,11/25/2024,Paid Search,18-24,Alexandria
+2684,1/26/2025,Organic,25-34,Alexandria
+2685,9/28/2025,Organic,45-54,Cairo
+2686,11/2/2024,Paid Search,55+,Giza
+2687,9/23/2024,Paid Search,35-44,Aswan
+2688,3/22/2025,Organic,25-34,Cairo
+2689,3/16/2025,Organic,55+,Alexandria
+2690,10/13/2025,Organic,35-44,Mansoura
+2691,1/2/2024,Organic,25-34,Giza
+2692,6/3/2025,Social,55+,Aswan
+2693,10/12/2025,Paid Search,45-54,Mansoura
+2694,9/27/2025,Organic,35-44,Giza
+2695,11/4/2024,Referral,35-44,Alexandria
+2696,6/5/2025,Organic,25-34,Mansoura
+2697,4/13/2025,Social,25-34,Alexandria
+2698,7/30/2024,Paid Search,35-44,Tanta
+2699,4/21/2024,Email,25-34,Giza
+2700,1/8/2024,Email,25-34,Cairo
+2701,4/21/2025,Organic,45-54,Cairo
+2702,4/4/2025,Referral,45-54,Cairo
+2703,9/9/2024,Paid Search,25-34,Cairo
+2704,6/9/2025,Paid Search,45-54,Tanta
+2705,3/13/2025,Email,45-54,Alexandria
+2706,10/22/2025,Email,35-44,Alexandria
+2707,8/23/2024,Paid Search,25-34,Alexandria
+2708,11/1/2024,Paid Search,25-34,Tanta
+2709,4/22/2025,Paid Search,25-34,Giza
+2710,1/20/2024,Paid Search,18-24,Tanta
+2711,8/3/2024,Email,25-34,Giza
+2712,5/14/2024,Organic,25-34,Aswan
+2713,5/8/2024,Organic,25-34,Mansoura
+2714,2/13/2025,Organic,55+,Cairo
+2715,2/25/2025,Paid Search,18-24,Alexandria
+2716,10/20/2024,Paid Search,35-44,Alexandria
+2717,9/2/2024,Social,35-44,Cairo
+2718,7/9/2025,Referral,18-24,Alexandria
+2719,3/26/2024,Email,55+,Giza
+2720,7/9/2025,Paid Search,35-44,Cairo
+2721,1/9/2025,Referral,25-34,Aswan
+2722,3/21/2025,Email,45-54,Alexandria
+2723,1/12/2025,Email,25-34,Tanta
+2724,1/24/2025,Organic,35-44,Alexandria
+2725,10/18/2025,Organic,18-24,Giza
+2726,2/20/2024,Paid Search,45-54,Alexandria
+2727,8/29/2024,Paid Search,25-34,Alexandria
+2728,10/20/2024,Paid Search,35-44,Aswan
+2729,7/16/2025,Paid Search,25-34,Cairo
+2730,9/22/2024,Organic,35-44,Tanta
+2731,4/29/2024,Email,45-54,Aswan
+2732,9/4/2024,Organic,35-44,Alexandria
+2733,3/10/2024,Paid Search,35-44,Aswan
+2734,2/26/2024,Referral,25-34,Giza
+2735,1/16/2025,Referral,45-54,Aswan
+2736,2/8/2024,Email,35-44,Mansoura
+2737,3/18/2025,Referral,45-54,Cairo
+2738,1/18/2024,Social,45-54,Aswan
+2739,12/17/2024,Referral,25-34,Giza
+2740,10/24/2024,Paid Search,25-34,Giza
+2741,10/9/2024,Organic,25-34,Alexandria
+2742,8/8/2025,Paid Search,45-54,Cairo
+2743,4/19/2024,Paid Search,25-34,Giza
+2744,6/28/2024,Paid Search,35-44,Tanta
+2745,6/27/2025,Social,45-54,Cairo
+2746,1/25/2024,Email,25-34,Cairo
+2747,2/26/2024,Social,35-44,Cairo
+2748,6/28/2024,Paid Search,25-34,Giza
+2749,8/19/2024,Email,18-24,Mansoura
+2750,12/8/2024,Social,45-54,Mansoura
+2751,4/21/2025,Organic,18-24,Aswan
+2752,7/29/2025,Social,25-34,Alexandria
+2753,3/30/2025,Paid Search,45-54,Cairo
+2754,8/19/2024,Organic,25-34,Aswan
+2755,10/15/2024,Referral,55+,Mansoura
+2756,7/31/2024,Paid Search,55+,Alexandria
+2757,9/14/2024,Organic,25-34,Mansoura
+2758,6/13/2025,Referral,18-24,Aswan
+2759,8/16/2024,Social,35-44,Mansoura
+2760,8/13/2024,Paid Search,25-34,Giza
+2761,8/18/2025,Paid Search,18-24,Mansoura
+2762,3/10/2025,Paid Search,35-44,Cairo
+2763,2/5/2025,Social,18-24,Giza
+2764,9/13/2025,Organic,45-54,Giza
+2765,3/28/2024,Paid Search,18-24,Cairo
+2766,8/6/2025,Referral,18-24,Cairo
+2767,6/25/2025,Organic,25-34,Cairo
+2768,11/4/2024,Paid Search,55+,Alexandria
+2769,12/8/2024,Organic,35-44,Tanta
+2770,3/11/2025,Social,45-54,Aswan
+2771,6/25/2024,Paid Search,25-34,Giza
+2772,5/18/2024,Paid Search,25-34,Alexandria
+2773,7/12/2024,Email,25-34,Aswan
+2774,7/4/2024,Organic,35-44,Cairo
+2775,8/5/2024,Social,35-44,Mansoura
+2776,6/12/2024,Organic,35-44,Mansoura
+2777,6/9/2024,Paid Search,25-34,Cairo
+2778,6/8/2025,Paid Search,55+,Tanta
+2779,8/23/2025,Organic,25-34,Tanta
+2780,2/11/2024,Paid Search,55+,Cairo
+2781,7/28/2024,Paid Search,18-24,Cairo
+2782,10/1/2024,Email,35-44,Cairo
+2783,10/5/2024,Referral,25-34,Giza
+2784,9/7/2024,Email,25-34,Alexandria
+2785,11/5/2024,Email,35-44,Alexandria
+2786,5/19/2024,Paid Search,25-34,Cairo
+2787,6/29/2025,Referral,25-34,Aswan
+2788,6/13/2025,Paid Search,35-44,Giza
+2789,2/26/2024,Referral,35-44,Cairo
+2790,4/21/2024,Referral,45-54,Giza
+2791,1/5/2024,Social,25-34,Alexandria
+2792,2/13/2025,Referral,35-44,Giza
+2793,2/17/2025,Social,35-44,Cairo
+2794,6/30/2024,Paid Search,25-34,Cairo
+2795,1/13/2024,Organic,35-44,Tanta
+2796,12/4/2024,Social,25-34,Aswan
+2797,9/15/2024,Paid Search,18-24,Giza
+2798,3/30/2024,Social,25-34,Giza
+2799,9/7/2025,Referral,18-24,Alexandria
+2800,9/6/2024,Paid Search,35-44,Mansoura
+2801,9/11/2024,Email,35-44,Giza
+2802,8/10/2025,Referral,55+,Aswan
+2803,4/17/2024,Referral,35-44,Alexandria
+2804,10/29/2025,Referral,18-24,Giza
+2805,8/16/2025,Organic,45-54,Alexandria
+2806,8/11/2025,Referral,45-54,Aswan
+2807,4/29/2025,Email,25-34,Mansoura
+2808,9/14/2024,Paid Search,35-44,Cairo
+2809,9/30/2025,Organic,55+,Giza
+2810,10/8/2024,Social,35-44,Giza
+2811,3/28/2024,Paid Search,55+,Giza
+2812,7/22/2024,Social,18-24,Mansoura
+2813,1/16/2024,Social,25-34,Tanta
+2814,5/30/2024,Paid Search,25-34,Mansoura
+2815,9/10/2024,Social,35-44,Aswan
+2816,7/6/2024,Email,45-54,Cairo
+2817,11/24/2024,Organic,55+,Tanta
+2818,6/27/2025,Paid Search,25-34,Mansoura
+2819,1/31/2025,Paid Search,18-24,Giza
+2820,5/31/2025,Organic,45-54,Mansoura
+2821,4/3/2025,Referral,35-44,Cairo
+2822,11/25/2024,Paid Search,25-34,Mansoura
+2823,6/17/2024,Social,35-44,Alexandria
+2824,12/31/2024,Paid Search,45-54,Cairo
+2825,6/26/2024,Organic,45-54,Alexandria
+2826,10/16/2025,Email,35-44,Alexandria
+2827,12/27/2024,Social,25-34,Cairo
+2828,9/30/2025,Paid Search,55+,Cairo
+2829,2/9/2024,Organic,35-44,Giza
+2830,2/19/2025,Paid Search,25-34,Alexandria
+2831,12/20/2024,Organic,25-34,Tanta
+2832,9/11/2024,Social,35-44,Aswan
+2833,5/22/2024,Paid Search,25-34,Alexandria
+2834,7/30/2025,Paid Search,25-34,Mansoura
+2835,1/11/2024,Organic,35-44,Giza
+2836,9/11/2025,Referral,25-34,Mansoura
+2837,1/26/2024,Referral,35-44,Cairo
+2838,2/24/2025,Paid Search,18-24,Giza
+2839,10/24/2025,Email,35-44,Alexandria
+2840,8/8/2024,Organic,25-34,Cairo
+2841,5/10/2025,Organic,18-24,Mansoura
+2842,8/24/2024,Email,18-24,Tanta
+2843,8/24/2024,Referral,55+,Giza
+2844,8/6/2024,Referral,45-54,Giza
+2845,5/1/2025,Social,25-34,Tanta
+2846,4/5/2025,Organic,45-54,Mansoura
+2847,10/24/2025,Email,35-44,Cairo
+2848,9/26/2025,Paid Search,55+,Giza
+2849,5/23/2024,Social,25-34,Alexandria
+2850,7/7/2024,Organic,35-44,Alexandria
+2851,9/11/2024,Social,18-24,Cairo
+2852,3/8/2024,Paid Search,25-34,Giza
+2853,9/7/2025,Paid Search,55+,Tanta
+2854,12/1/2024,Referral,35-44,Mansoura
+2855,2/12/2025,Paid Search,25-34,Aswan
+2856,10/26/2024,Organic,18-24,Mansoura
+2857,8/24/2025,Paid Search,35-44,Aswan
+2858,12/22/2024,Paid Search,35-44,Cairo
+2859,9/12/2024,Paid Search,25-34,Mansoura
+2860,12/18/2024,Paid Search,55+,Cairo
+2861,6/4/2025,Referral,18-24,Alexandria
+2862,6/7/2025,Paid Search,25-34,Giza
+2863,10/10/2024,Referral,55+,Giza
+2864,11/7/2024,Social,25-34,Tanta
+2865,4/8/2024,Organic,25-34,Tanta
+2866,7/15/2024,Social,35-44,Cairo
+2867,4/26/2025,Organic,45-54,Alexandria
+2868,8/13/2024,Email,18-24,Giza
+2869,9/6/2025,Paid Search,55+,Giza
+2870,9/9/2025,Organic,45-54,Tanta
+2871,12/30/2024,Referral,25-34,Giza
+2872,1/2/2025,Referral,35-44,Aswan
+2873,7/23/2025,Referral,25-34,Cairo
+2874,8/12/2025,Organic,25-34,Alexandria
+2875,3/15/2024,Email,45-54,Alexandria
+2876,2/11/2024,Organic,55+,Cairo
+2877,2/25/2025,Organic,18-24,Giza
+2878,6/29/2024,Paid Search,25-34,Tanta
+2879,6/28/2025,Social,35-44,Mansoura
+2880,3/11/2024,Paid Search,25-34,Giza
+2881,7/21/2025,Organic,25-34,Alexandria
+2882,4/14/2024,Email,18-24,Cairo
+2883,7/18/2024,Paid Search,35-44,Cairo
+2884,4/10/2024,Paid Search,25-34,Giza
+2885,11/2/2024,Paid Search,25-34,Cairo
+2886,8/8/2025,Referral,45-54,Tanta
+2887,1/11/2025,Organic,45-54,Mansoura
+2888,10/16/2025,Organic,35-44,Aswan
+2889,2/2/2025,Email,25-34,Mansoura
+2890,8/8/2024,Email,35-44,Aswan
+2891,8/17/2025,Organic,25-34,Alexandria
+2892,6/30/2024,Social,25-34,Alexandria
+2893,11/2/2024,Email,35-44,Aswan
+2894,6/5/2025,Social,18-24,Alexandria
+2895,1/30/2025,Paid Search,18-24,Cairo
+2896,1/4/2024,Referral,18-24,Mansoura
+2897,10/7/2024,Organic,25-34,Aswan
+2898,8/2/2024,Paid Search,18-24,Mansoura
+2899,9/1/2025,Organic,55+,Alexandria
+2900,2/23/2025,Paid Search,25-34,Alexandria
+2901,4/10/2024,Paid Search,18-24,Aswan
+2902,6/4/2025,Email,25-34,Cairo
+2903,7/26/2025,Paid Search,55+,Alexandria
+2904,11/4/2024,Organic,35-44,Cairo
+2905,10/19/2025,Organic,25-34,Alexandria
+2906,5/24/2025,Paid Search,45-54,Alexandria
+2907,3/3/2024,Referral,25-34,Cairo
+2908,9/24/2025,Paid Search,25-34,Cairo
+2909,8/13/2024,Paid Search,25-34,Alexandria
+2910,4/14/2024,Paid Search,25-34,Cairo
+2911,2/28/2025,Paid Search,25-34,Cairo
+2912,9/11/2024,Paid Search,35-44,Tanta
+2913,3/4/2025,Social,25-34,Giza
+2914,3/9/2025,Referral,35-44,Giza
+2915,7/25/2024,Paid Search,18-24,Aswan
+2916,1/28/2024,Social,25-34,Cairo
+2917,12/1/2024,Email,25-34,Giza
+2918,8/10/2025,Email,55+,Alexandria
+2919,9/19/2025,Organic,25-34,Mansoura
+2920,3/9/2024,Paid Search,35-44,Aswan
+2921,5/27/2025,Organic,25-34,Aswan
+2922,6/15/2024,Social,18-24,Mansoura
+2923,1/2/2025,Email,18-24,Cairo
+2924,9/7/2024,Paid Search,25-34,Cairo
+2925,6/18/2024,Organic,25-34,Giza
+2926,3/30/2024,Referral,25-34,Cairo
+2927,7/14/2025,Email,45-54,Mansoura
+2928,3/21/2025,Referral,18-24,Alexandria
+2929,10/20/2024,Email,35-44,Cairo
+2930,5/29/2024,Organic,25-34,Tanta
+2931,5/11/2024,Social,35-44,Cairo
+2932,3/8/2025,Social,35-44,Giza
+2933,2/28/2024,Paid Search,25-34,Alexandria
+2934,7/17/2024,Social,25-34,Giza
+2935,8/2/2024,Social,35-44,Giza
+2936,7/14/2025,Paid Search,45-54,Cairo
+2937,4/16/2025,Email,25-34,Giza
+2938,9/3/2024,Social,18-24,Mansoura
+2939,1/16/2025,Referral,45-54,Aswan
+2940,8/26/2024,Paid Search,25-34,Giza
+2941,1/1/2025,Paid Search,35-44,Giza
+2942,6/16/2024,Social,25-34,Mansoura
+2943,7/13/2025,Paid Search,18-24,Aswan
+2944,2/20/2024,Social,35-44,Cairo
+2945,9/1/2025,Email,35-44,Giza
+2946,1/14/2025,Paid Search,25-34,Mansoura
+2947,4/18/2025,Organic,25-34,Alexandria
+2948,3/20/2024,Organic,45-54,Cairo
+2949,1/1/2025,Organic,35-44,Alexandria
+2950,4/5/2025,Referral,18-24,Cairo
+2951,6/22/2025,Email,35-44,Alexandria
+2952,3/27/2025,Social,35-44,Alexandria
+2953,4/8/2025,Social,45-54,Tanta
+2954,4/22/2025,Organic,35-44,Giza
+2955,2/23/2025,Referral,25-34,Cairo
+2956,8/1/2024,Social,35-44,Cairo
+2957,1/3/2025,Social,35-44,Tanta
+2958,4/23/2024,Referral,18-24,Cairo
+2959,5/17/2025,Paid Search,25-34,Giza
+2960,9/27/2025,Email,25-34,Cairo
+2961,8/10/2025,Paid Search,35-44,Mansoura
+2962,11/6/2024,Organic,25-34,Giza
+2963,4/13/2025,Organic,35-44,Giza
+2964,2/13/2024,Referral,55+,Giza
+2965,2/18/2025,Email,45-54,Tanta
+2966,9/2/2024,Social,55+,Alexandria
+2967,3/24/2024,Social,55+,Mansoura
+2968,7/25/2024,Social,18-24,Tanta
+2969,5/30/2024,Referral,35-44,Aswan
+2970,10/29/2025,Organic,25-34,Giza
+2971,6/11/2025,Organic,45-54,Aswan
+2972,6/13/2024,Paid Search,25-34,Cairo
+2973,5/24/2024,Email,55+,Giza
+2974,2/6/2024,Social,35-44,Tanta
+2975,11/28/2024,Organic,45-54,Cairo
+2976,2/6/2025,Paid Search,18-24,Cairo
+2977,2/17/2025,Email,25-34,Giza
+2978,2/14/2024,Paid Search,45-54,Alexandria
+2979,2/5/2025,Social,18-24,Giza
+2980,7/24/2024,Referral,45-54,Mansoura
+2981,3/2/2024,Organic,18-24,Tanta
+2982,2/23/2025,Paid Search,35-44,Alexandria
+2983,4/12/2025,Social,25-34,Cairo
+2984,1/19/2024,Email,35-44,Aswan
+2985,12/30/2024,Social,35-44,Cairo
+2986,10/26/2024,Referral,25-34,Cairo
+2987,1/7/2024,Paid Search,18-24,Cairo
+2988,3/3/2025,Organic,18-24,Alexandria
+2989,4/26/2024,Social,35-44,Cairo
+2990,8/2/2025,Referral,35-44,Cairo
+2991,5/21/2025,Paid Search,45-54,Giza
+2992,6/29/2025,Email,35-44,Cairo
+2993,11/20/2024,Social,25-34,Alexandria
+2994,2/24/2024,Organic,25-34,Tanta
+2995,2/11/2024,Paid Search,18-24,Mansoura
+2996,10/23/2024,Referral,25-34,Cairo
+2997,8/18/2024,Paid Search,55+,Cairo
+2998,3/28/2025,Paid Search,45-54,Aswan
+2999,1/28/2025,Paid Search,25-34,Cairo
+3000,6/5/2025,Referral,35-44,Tanta
